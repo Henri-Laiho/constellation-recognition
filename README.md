@@ -1,5 +1,14 @@
 # constellation-recognition
 
+## Setup
+
+1. Clone this repository
+2. Merge the contents of this 7z archive into the cloned repository:
+   https://drive.google.com/file/d/1d05SC3vCEqLf5mlnlw1_BmHRHdbdz0l4/view?usp=sharing
+3. Install CLIP as instructed here https://github.com/openai/CLIP
+4. Install PyTorch torch~=1.7.1 torchvision~=0.8.2 with the instruction at https://pytorch.org/
+5. Install requirements from requirements.txt
+
 ## Structure
 
 ### Notebooks/Python files
