@@ -1,0 +1,187 @@
+Check that object label is in categories:
+True
+Initial guess:
+cattle has probability of 0.87%
+1
+[(140, 146)]
+Line from (140, 146)->(143, 143)
+cattle has probability of 0.89%
+2
+[(140, 146), (143, 143)]
+Line from (140, 146)->(131, 151)
+cattle has probability of 1.32%
+3
+[(143, 143), (131, 151)]
+Line from (143, 143)->(156, 151)
+cattle has probability of 1.88%
+4
+[(131, 151), (156, 151)]
+Line from (156, 151)->(176, 149)
+cattle has probability of 2.75%
+5
+[(131, 151), (176, 149)]
+Line from (176, 149)->(182, 148)
+cattle has probability of 2.49%
+6
+[(131, 151), (182, 148)]
+Line from (182, 148)->(189, 155)
+cattle has probability of 2.78%
+7
+[(131, 151), (189, 155)]
+Line from (189, 155)->(202, 164)
+cattle has probability of 3.56%
+8
+[(131, 151), (202, 164)]
+Line from (202, 164)->(208, 150)
+cattle has probability of 6.45%
+9
+[(131, 151), (208, 150)]
+Line from (208, 150)->(216, 167)
+cattle has probability of 12.99%
+10
+[(131, 151), (216, 167)]
+Line from (131, 151)->(143, 143)
+cattle has probability of 12.54%
+11
+[(216, 167), (143, 143)]
+Line from (216, 167)->(217, 162)
+cattle has probability of 11.65%
+12
+[(143, 143), (217, 162)]
+Line from (217, 162)->(208, 150)
+cattle has probability of 12.02%
+13
+[(143, 143), (208, 150)]
+Line from (208, 150)->(182, 148)
+cattle has probability of 12.89%
+14
+[(143, 143), (182, 148)]
+Line from (143, 143)->(165, 163)
+cattle has probability of 19.92%
+15
+[(182, 148), (165, 163)]
+Line from (165, 163)->(175, 164)
+cattle has probability of 25.59%
+16
+[(182, 148), (175, 164)]
+Line from (175, 164)->(178, 170)
+cattle has probability of 26.22%
+17
+[(182, 148), (178, 170)]
+Line from (178, 170)->(173, 189)
+cattle has probability of 26.20%
+18
+[(182, 148), (173, 189)]
+Line from (182, 148)->(156, 151)
+cattle has probability of 25.93%
+19
+[(173, 189), (156, 151)]
+Line from (156, 151)->(165, 163)
+cattle has probability of 26.86%
+20
+[(173, 189), (165, 163)]
+Line from (165, 163)->(163, 178)
+cattle has probability of 27.47%
+21
+[(173, 189), (163, 178)]
+Line from (163, 178)->(156, 151)
+cattle has probability of 30.18%
+22
+[(173, 189), (156, 151)]
+Line from (173, 189)->(200, 190)
+cattle has probability of 39.97%
+23
+[(156, 151), (200, 190)]
+Line from (156, 151)->(189, 155)
+cattle has probability of 48.61%
+24
+[(200, 190), (189, 155)]
+Line from (189, 155)->(176, 149)
+cattle has probability of 48.10%
+25
+[(200, 190), (176, 149)]
+Line from (200, 190)->(202, 164)
+cattle has probability of 49.37%
+26
+[(176, 149), (202, 164)]
+Line from (202, 164)->(217, 162)
+cattle has probability of 52.83%
+27
+[(176, 149), (217, 162)]
+Line from (217, 162)->(233, 164)
+cattle has probability of 52.64%
+28
+[(176, 149), (233, 164)]
+Line from (233, 164)->(230, 169)
+cattle has probability of 51.76%
+29
+[(176, 149), (230, 169)]
+Line from (230, 169)->(231, 154)
+cattle has probability of 53.86%
+30
+[(176, 149), (231, 154)]
+Line from (231, 154)->(233, 164)
+cattle has probability of 56.45%
+31
+[(176, 149), (233, 164)]
+Line from (233, 164)->(207, 178)
+cattle has probability of 58.06%
+32
+[(176, 149), (207, 178)]
+Line from (207, 178)->(216, 167)
+cattle has probability of 59.13%
+33
+[(176, 149), (216, 167)]
+Line from (216, 167)->(230, 169)
+cattle has probability of 59.91%
+34
+[(176, 149), (230, 169)]
+Line from (230, 169)->(217, 162)
+cattle has probability of 59.13%
+35
+[(176, 149), (217, 162)]
+Line from (217, 162)->(207, 178)
+cattle has probability of 59.18%
+36
+[(176, 149), (207, 178)]
+Line from (207, 178)->(202, 164)
+cattle has probability of 61.87%
+37
+[(176, 149), (202, 164)]
+Line from (176, 149)->(208, 150)
+cattle has probability of 61.38%
+38
+[(202, 164), (208, 150)]
+Line from (208, 150)->(156, 151)
+cattle has probability of 61.96%
+39
+[(202, 164), (156, 151)]
+Line from (156, 151)->(140, 146)
+cattle has probability of 61.23%
+40
+[(202, 164), (140, 146)]
+Line from (140, 146)->(130, 131)
+cattle has probability of 62.70%
+41
+[(202, 164), (130, 131)]
+Line from (130, 131)->(123, 135)
+cattle has probability of 61.77%
+42
+[(202, 164), (123, 135)]
+Line from (123, 135)->(143, 143)
+cattle has probability of 62.26%
+43
+[(202, 164), (143, 143)]
+Line from (143, 143)->(176, 149)
+cattle has probability of 62.06%
+44
+[(202, 164), (176, 149)]
+Line from (176, 149)->(140, 146)
+cattle has probability of 61.67%
+45
+[(202, 164), (140, 146)]
+Line from (140, 146)->(182, 148)
+cattle has probability of 60.99%
+46
+[(202, 164), (182, 148)]
+Couldn't find better connection, stopping!

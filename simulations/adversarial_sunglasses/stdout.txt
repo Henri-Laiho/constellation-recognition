@@ -1,0 +1,483 @@
+Trying to fool for sunglasses
+object_196
+original
+Step 20/20
+Top predictions for original :
+
+           mouse: 4.49%
+        dinosaur: 4.49%
+           shark: 3.84%
+           whale: 3.72%
+            skis: 3.60%
+object_201
+original
+Step 20/20
+Top predictions for original :
+
+         penguin: 8.40%
+             cow: 5.60%
+           horse: 4.36%
+        dinosaur: 3.04%
+              tv: 2.95%
+object_206
+original
+Step 20/20
+Top predictions for original :
+
+      television: 5.47%
+              tv: 4.53%
+             cow: 4.32%
+       pine_tree: 3.26%
+        dinosaur: 2.75%
+object_211
+original
+Step 20/20
+Top predictions for original :
+
+          pistol: 20.03%
+          cannon: 3.88%
+           whale: 3.48%
+             car: 2.98%
+           mouse: 2.51%
+object_225
+original
+Step 20/20
+Top predictions for original :
+
+      television: 11.11%
+              tv: 6.95%
+          person: 3.55%
+            girl: 2.56%
+       telephone: 2.40%
+object_229
+original
+Step 20/20
+Top predictions for original :
+
+      sunglasses: 97.85%
+             car: 0.33%
+          person: 0.14%
+          beetle: 0.13%
+       butterfly: 0.08%
+object_230
+original
+Step 20/20
+Top predictions for original :
+
+           chair: 99.27%
+           table: 0.07%
+           bench: 0.05%
+      lawn_mower: 0.05%
+            lamp: 0.04%
+object_234
+original
+Step 20/20
+Top predictions for original :
+
+         penguin: 11.58%
+             cow: 8.34%
+            bear: 8.22%
+             dog: 6.10%
+           skunk: 5.65%
+object_243
+original
+Step 20/20
+Top predictions for original :
+
+      television: 9.03%
+              tv: 6.60%
+            kite: 4.33%
+      skyscraper: 3.17%
+          rocket: 3.02%
+object_244
+original
+Step 20/20
+Top predictions for original :
+
+      motorcycle: 45.53%
+         bicycle: 26.34%
+      lawn_mower: 3.86%
+           mouse: 1.21%
+             car: 0.95%
+object_248
+original
+Step 20/20
+Top predictions for original :
+
+             cat: 25.93%
+           mouse: 18.68%
+           skunk: 11.15%
+           tiger: 8.83%
+             fox: 3.00%
+object_256
+original
+Step 20/20
+Top predictions for original :
+
+fire extinguisher: 26.10%
+          bottle: 17.11%
+             can: 11.58%
+   traffic light: 5.65%
+           flask: 4.98%
+object_263
+original
+Step 20/20
+Top predictions for original :
+
+           chair: 99.32%
+           table: 0.18%
+    dining table: 0.10%
+      lawn_mower: 0.07%
+           bench: 0.05%
+object_266
+original
+Step 20/20
+Top predictions for original :
+
+            duck: 5.33%
+         penguin: 4.63%
+            worm: 4.15%
+        dinosaur: 3.09%
+           snake: 3.04%
+object_322
+original
+Step 20/20
+Top predictions for original :
+
+            bear: 4.26%
+             cow: 4.26%
+       pine_tree: 3.64%
+           sheep: 3.48%
+      sunglasses: 3.42%
+object_324
+original
+Step 20/20
+Top predictions for original :
+
+       sunflower: 7.37%
+      sunglasses: 6.71%
+           plain: 3.53%
+      television: 3.07%
+           clock: 2.75%
+object_338
+original
+Step 20/20
+Top predictions for original :
+
+           chair: 15.12%
+   traffic light: 7.48%
+   tennis racket: 5.39%
+      lawn_mower: 4.83%
+      television: 4.33%
+object_339
+original
+Step 20/20
+Top predictions for original :
+
+             bus: 22.85%
+         tractor: 9.99%
+           train: 7.78%
+           truck: 7.78%
+       streetcar: 6.76%
+object_341
+original
+Step 20/20
+Top predictions for original :
+
+         giraffe: 49.27%
+        dinosaur: 17.30%
+           camel: 7.21%
+           horse: 6.26%
+           zebra: 3.41%
+object_345
+original
+Step 20/20
+Top predictions for original :
+
+   traffic light: 15.98%
+      lawn_mower: 4.65%
+             car: 3.51%
+           plain: 3.25%
+      sunglasses: 2.65%
+object_351
+original
+Step 20/20
+Top predictions for original :
+
+      sunglasses: 14.29%
+            worm: 11.85%
+           snake: 11.31%
+        dinosaur: 6.34%
+           whale: 4.94%
+object_367
+original
+Step 20/20
+Top predictions for original :
+
+      television: 5.53%
+            skis: 4.96%
+              tv: 4.80%
+       snowboard: 2.82%
+   traffic light: 2.78%
+object_369
+original
+Step 20/20
+Top predictions for original :
+
+          pistol: 90.28%
+      television: 0.67%
+    pickup_truck: 0.61%
+              tv: 0.45%
+           truck: 0.44%
+object_385
+original
+Step 20/20
+Top predictions for original :
+
+      television: 15.76%
+              tv: 9.56%
+          person: 3.20%
+             dog: 2.57%
+      lawn_mower: 2.49%
+object_391
+original
+Step 20/20
+Top predictions for original :
+
+            kite: 8.07%
+      television: 6.59%
+              tv: 6.38%
+       butterfly: 4.67%
+          rocket: 3.75%
+object_409
+original
+Step 20/20
+Top predictions for original :
+
+         snowman: 46.97%
+   traffic light: 8.69%
+            lamp: 3.98%
+       pine_tree: 1.88%
+      skyscraper: 1.85%
+object_410
+original
+Step 20/20
+Top predictions for original :
+
+             tie: 10.60%
+            skis: 5.68%
+      cell phone: 3.55%
+            kite: 2.72%
+        keyboard: 2.44%
+object_411
+original
+Step 20/20
+Top predictions for original :
+
+   traffic light: 12.76%
+   tennis racket: 7.04%
+      sunglasses: 4.84%
+             tie: 4.55%
+            kite: 4.27%
+object_412
+original
+Step 20/20
+Top predictions for original :
+
+      television: 9.08%
+              tv: 6.64%
+      sunglasses: 3.24%
+        dinosaur: 3.24%
+          forest: 3.04%
+object_413
+original
+Step 20/20
+Top predictions for original :
+
+           shirt: 95.90%
+           plain: 0.53%
+      sunglasses: 0.26%
+          person: 0.23%
+      television: 0.19%
+object_419
+original
+Step 20/20
+Top predictions for original :
+
+         bicycle: 38.31%
+      motorcycle: 35.42%
+      lawn_mower: 8.28%
+      skateboard: 1.49%
+   traffic light: 1.19%
+object_432
+original
+Step 20/20
+Top predictions for original :
+
+      lawn_mower: 11.98%
+      sunglasses: 8.90%
+      television: 4.92%
+   traffic light: 3.71%
+             car: 3.54%
+object_439
+original
+Step 20/20
+Top predictions for original :
+
+          rocket: 14.72%
+        dinosaur: 5.42%
+   traffic light: 4.86%
+            skis: 4.78%
+    baseball bat: 3.78%
+object_440
+original
+Step 20/20
+Top predictions for original :
+
+          rocket: 7.14%
+            skis: 6.82%
+        dinosaur: 3.77%
+            worm: 3.43%
+      television: 3.22%
+object_442
+original
+Step 20/20
+Top predictions for original :
+
+          person: 8.21%
+      television: 8.09%
+            girl: 6.40%
+              tv: 5.14%
+             boy: 4.46%
+object_447
+original
+Step 20/20
+Top predictions for original :
+
+            worm: 15.01%
+           whale: 5.61%
+      sunglasses: 4.80%
+        dinosaur: 4.37%
+           snake: 3.05%
+object_448
+original
+Step 20/20
+Top predictions for original :
+
+          person: 7.24%
+             boy: 5.82%
+             man: 5.73%
+          pistol: 3.70%
+      skateboard: 2.54%
+object_449
+original
+Step 20/20
+Top predictions for original :
+
+       pine_tree: 32.45%
+         snowman: 6.70%
+       palm_tree: 4.90%
+            pear: 4.82%
+     willow_tree: 4.13%
+object_451
+original
+Step 20/20
+Top predictions for original :
+
+          cattle: 18.18%
+             cow: 13.09%
+           zebra: 4.25%
+        dinosaur: 4.18%
+        kangaroo: 4.06%
+object_452
+original
+Step 20/20
+Top predictions for original :
+
+      television: 9.64%
+   traffic light: 9.06%
+              tv: 5.33%
+            skis: 2.60%
+           chair: 2.40%
+object_453
+original
+Step 20/20
+Top predictions for original :
+
+         tractor: 15.42%
+      lawn_mower: 7.63%
+          cannon: 7.40%
+         bicycle: 6.84%
+      television: 2.85%
+object_455
+original
+Step 20/20
+Top predictions for original :
+
+            skis: 6.98%
+           plate: 6.56%
+   traffic light: 5.36%
+            worm: 4.04%
+            kite: 3.80%
+object_457
+original
+Step 20/20
+Top predictions for original :
+
+       snowboard: 8.68%
+      lawn_mower: 6.15%
+        dinosaur: 5.96%
+            skis: 5.87%
+       crocodile: 5.18%
+object_463
+original
+Step 20/20
+Top predictions for original :
+
+          rocket: 13.10%
+      sunglasses: 6.19%
+            skis: 4.82%
+      television: 4.19%
+            fork: 3.36%
+object_468
+original
+Step 20/20
+Top predictions for original :
+
+      sunglasses: 4.92%
+      television: 3.77%
+           chair: 3.54%
+          person: 3.49%
+           sheep: 2.80%
+object_471
+original
+Step 20/20
+Top predictions for original :
+
+            skis: 12.19%
+           knife: 5.50%
+            worm: 4.93%
+         hot dog: 4.08%
+     caterpillar: 3.90%
+object_473
+original
+Step 20/20
+Top predictions for original :
+
+            vase: 95.26%
+          bottle: 1.30%
+             cup: 0.64%
+      wine glass: 0.45%
+            lamp: 0.24%
+object_478
+original
+Step 20/20
+Top predictions for original :
+
+          rocket: 16.66%
+      skyscraper: 13.60%
+              tv: 7.06%
+      television: 5.67%
+          castle: 5.33%
+
+Process finished with exit code 0

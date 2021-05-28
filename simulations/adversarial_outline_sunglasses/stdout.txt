@@ -1,0 +1,482 @@
+Trying to fool for sunglasses
+object_196
+outline
+Top predictions for outline :
+
+       pine_tree: 5.93%
+           zebra: 4.69%
+      lawn_mower: 4.34%
+         bicycle: 3.38%
+           chair: 3.12%
+object_201
+outline
+Step 30/30
+Top predictions for outline :
+
+            skis: 6.45%
+             tie: 3.19%
+            fork: 3.14%
+           zebra: 3.14%
+           shirt: 3.09%
+object_206
+outline
+Step 30/30
+Top predictions for outline :
+
+           snake: 4.99%
+       pine_tree: 3.65%
+           chair: 3.48%
+       butterfly: 2.98%
+             tie: 2.63%
+object_211
+outline
+Step 30/30
+Top predictions for outline :
+
+      lawn_mower: 4.96%
+            vase: 4.59%
+       pine_tree: 4.45%
+           snake: 3.31%
+           zebra: 2.70%
+object_225
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 5.37%
+           snake: 4.18%
+             tie: 4.05%
+           chair: 3.69%
+           plain: 2.70%
+object_229
+outline
+Step 30/30
+Top predictions for outline :
+
+      sunglasses: 99.12%
+       butterfly: 0.08%
+           snake: 0.07%
+          turtle: 0.05%
+           plain: 0.04%
+object_230
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 7.97%
+    sweet_pepper: 4.68%
+             cat: 3.76%
+      lawn_mower: 3.53%
+           snake: 3.17%
+object_234
+outline
+Step 30/30
+Top predictions for outline :
+
+      sunglasses: 8.04%
+           chair: 6.07%
+             tie: 5.79%
+           plain: 4.10%
+           zebra: 3.86%
+object_243
+outline
+Step 30/30
+Top predictions for outline :
+
+           snake: 8.77%
+           zebra: 5.57%
+           chair: 3.18%
+       butterfly: 3.12%
+            worm: 3.08%
+object_244
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 5.01%
+            fork: 3.67%
+             tie: 3.67%
+           plain: 3.50%
+    sweet_pepper: 2.81%
+object_248
+outline
+Step 30/30
+Top predictions for outline :
+
+            fork: 5.57%
+       pine_tree: 5.31%
+           chair: 4.27%
+             pen: 3.17%
+             tie: 2.80%
+object_256
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 12.12%
+           chair: 4.06%
+           snake: 3.37%
+   tennis racket: 2.75%
+          turtle: 2.70%
+object_263
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 5.58%
+             tie: 5.24%
+         giraffe: 4.70%
+    sweet_pepper: 3.90%
+            skis: 3.28%
+object_266
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 11.15%
+             tie: 4.87%
+           plain: 4.17%
+      lawn_mower: 2.65%
+           snake: 2.45%
+object_322
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 5.94%
+           chair: 5.00%
+           zebra: 4.35%
+           plain: 4.15%
+      sunglasses: 2.85%
+object_324
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 7.64%
+           chair: 5.42%
+           plain: 5.17%
+            skis: 4.78%
+           zebra: 4.63%
+object_338
+outline
+Step 30/30
+Top predictions for outline :
+
+      lawn_mower: 5.51%
+            vase: 5.02%
+           chair: 3.56%
+             tie: 2.52%
+      television: 2.48%
+object_339
+outline
+Step 30/30
+Top predictions for outline :
+
+      lawn_mower: 4.66%
+       pine_tree: 3.87%
+           chair: 3.81%
+            fork: 3.75%
+             tie: 3.63%
+object_341
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 8.66%
+             tie: 5.95%
+           zebra: 4.86%
+            fork: 4.43%
+           plain: 3.29%
+object_345
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 7.88%
+           zebra: 4.49%
+            skis: 4.42%
+           chair: 4.03%
+            fork: 3.84%
+object_351
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 9.02%
+             tie: 6.81%
+            fork: 5.73%
+           plain: 3.70%
+      sunglasses: 2.84%
+object_367
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 7.68%
+            skis: 5.80%
+            fork: 5.53%
+            kite: 4.17%
+             pen: 3.74%
+object_369
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 6.26%
+             tie: 5.19%
+           plain: 4.51%
+      lawn_mower: 3.45%
+           snake: 3.35%
+object_385
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 8.81%
+           chair: 7.42%
+            fork: 4.50%
+           zebra: 3.50%
+           snake: 3.00%
+object_391
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 7.35%
+             tie: 5.82%
+           snake: 5.55%
+           plain: 3.59%
+          person: 2.93%
+object_409
+outline
+Step 30/30
+Top predictions for outline :
+
+            fork: 3.57%
+           zebra: 3.10%
+           chair: 2.96%
+           plain: 2.87%
+           snake: 2.74%
+object_410
+outline
+Step 30/30
+Top predictions for outline :
+
+         giraffe: 10.25%
+           zebra: 6.73%
+            skis: 4.27%
+             cow: 4.08%
+      lawn_mower: 4.02%
+object_411
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 5.88%
+            skis: 4.10%
+            fork: 3.98%
+           zebra: 3.98%
+   tennis racket: 3.80%
+object_412
+outline
+Step 30/30
+Top predictions for outline :
+
+            kite: 12.90%
+           zebra: 5.46%
+             tie: 4.75%
+       butterfly: 4.75%
+            fork: 3.76%
+object_413
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 8.01%
+             tie: 4.57%
+           snake: 3.56%
+           plain: 2.73%
+       pine_tree: 2.64%
+object_419
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 9.95%
+             tie: 6.43%
+           plain: 5.67%
+           zebra: 2.60%
+           snake: 2.44%
+object_432
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 7.12%
+             tie: 6.38%
+           zebra: 4.74%
+           plain: 4.32%
+            fork: 3.26%
+object_439
+outline
+Step 30/30
+Top predictions for outline :
+
+             tie: 9.08%
+           chair: 5.86%
+            fork: 5.01%
+           plain: 4.79%
+            skis: 2.95%
+object_440
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 4.67%
+             tie: 3.81%
+           snake: 3.58%
+           plain: 2.75%
+      lawn_mower: 2.70%
+object_442
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 6.41%
+            fork: 5.15%
+           plain: 4.99%
+             tie: 4.92%
+           snake: 3.54%
+object_447
+outline
+Step 30/30
+Top predictions for outline :
+
+          rabbit: 4.82%
+           chair: 3.53%
+      lawn_mower: 3.31%
+            kite: 3.16%
+      sunglasses: 2.58%
+object_448
+outline
+Step 30/30
+Top predictions for outline :
+
+            skis: 12.59%
+             tie: 11.83%
+            fork: 7.40%
+           zebra: 5.76%
+            kite: 3.34%
+object_449
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 7.78%
+           plain: 5.02%
+             tie: 4.57%
+           snake: 3.24%
+      lawn_mower: 2.57%
+object_451
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 8.24%
+             tie: 6.52%
+           zebra: 6.12%
+           plain: 4.48%
+      sunglasses: 3.54%
+object_452
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 5.90%
+           zebra: 5.04%
+             tie: 4.97%
+           plain: 4.52%
+            fork: 2.92%
+object_453
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 9.00%
+            fork: 5.21%
+      lawn_mower: 3.75%
+        keyboard: 3.31%
+             tie: 2.92%
+object_455
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 7.47%
+             tie: 6.29%
+            fork: 3.82%
+           zebra: 3.70%
+           plain: 3.42%
+object_457
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 6.61%
+      lawn_mower: 3.95%
+           chair: 3.17%
+   tennis racket: 3.03%
+            fork: 2.84%
+object_463
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 8.85%
+           plain: 5.20%
+            fork: 4.52%
+            skis: 3.75%
+      lawn_mower: 3.11%
+object_468
+outline
+Step 30/30
+Top predictions for outline :
+
+           chair: 4.25%
+            fork: 4.18%
+             tie: 3.11%
+            skis: 2.66%
+        keyboard: 2.62%
+object_471
+outline
+Step 30/30
+Top predictions for outline :
+
+            skis: 9.61%
+            kite: 8.89%
+            fork: 4.91%
+             pen: 3.70%
+           plain: 3.37%
+object_473
+outline
+Step 30/30
+Top predictions for outline :
+
+           snake: 6.11%
+           zebra: 5.74%
+           plain: 5.56%
+           chair: 4.40%
+            fork: 4.01%
+object_478
+outline
+Step 30/30
+Top predictions for outline :
+
+           zebra: 8.23%
+             tie: 6.93%
+           chair: 5.07%
+            fork: 4.01%
+           plain: 3.71%
+
+Process finished with exit code 0

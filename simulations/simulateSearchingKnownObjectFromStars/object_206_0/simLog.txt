@@ -1,0 +1,103 @@
+Check that object label is in categories:
+True
+Initial guess:
+wolf has probability of 0.61%
+1
+[(115, 125)]
+Line from (115, 125)->(106, 136)
+wolf has probability of 0.75%
+2
+[(115, 125), (106, 136)]
+Line from (106, 136)->(100, 137)
+wolf has probability of 0.68%
+3
+[(115, 125), (100, 137)]
+Line from (100, 137)->(92, 140)
+wolf has probability of 0.57%
+4
+[(115, 125), (92, 140)]
+Line from (92, 140)->(101, 149)
+wolf has probability of 0.55%
+5
+[(115, 125), (101, 149)]
+Line from (101, 149)->(106, 136)
+wolf has probability of 0.60%
+6
+[(115, 125), (106, 136)]
+Line from (106, 136)->(92, 140)
+wolf has probability of 0.54%
+7
+[(115, 125), (92, 140)]
+Line from (92, 140)->(83, 141)
+wolf has probability of 0.39%
+8
+[(115, 125), (83, 141)]
+Line from (83, 141)->(77, 135)
+wolf has probability of 0.37%
+9
+[(115, 125), (77, 135)]
+Line from (77, 135)->(66, 155)
+wolf has probability of 0.68%
+10
+[(115, 125), (66, 155)]
+Line from (115, 125)->(130, 149)
+wolf has probability of 1.20%
+11
+[(66, 155), (130, 149)]
+Line from (130, 149)->(127, 135)
+wolf has probability of 1.38%
+12
+[(66, 155), (127, 135)]
+Line from (66, 155)->(52, 123)
+wolf has probability of 3.16%
+13
+[(127, 135), (52, 123)]
+Line from (127, 135)->(144, 115)
+wolf has probability of 3.93%
+14
+[(52, 123), (144, 115)]
+Line from (144, 115)->(177, 112)
+wolf has probability of 10.02%
+15
+[(52, 123), (177, 112)]
+Line from (177, 112)->(161, 108)
+wolf has probability of 10.20%
+16
+[(52, 123), (161, 108)]
+Line from (161, 108)->(158, 121)
+wolf has probability of 13.22%
+17
+[(52, 123), (158, 121)]
+Line from (52, 123)->(66, 143)
+wolf has probability of 13.16%
+18
+[(158, 121), (66, 143)]
+Line from (66, 143)->(63, 130)
+wolf has probability of 16.10%
+19
+[(158, 121), (63, 130)]
+Line from (63, 130)->(54, 139)
+wolf has probability of 16.61%
+20
+[(158, 121), (54, 139)]
+Line from (158, 121)->(171, 123)
+wolf has probability of 17.09%
+21
+[(54, 139), (171, 123)]
+Line from (54, 139)->(49, 136)
+wolf has probability of 20.27%
+22
+[(171, 123), (49, 136)]
+Line from (171, 123)->(184, 129)
+wolf has probability of 21.92%
+23
+[(49, 136), (184, 129)]
+Line from (184, 129)->(196, 130)
+wolf has probability of 21.08%
+24
+[(49, 136), (196, 130)]
+Line from (196, 130)->(193, 138)
+wolf has probability of 20.31%
+25
+[(49, 136), (193, 138)]
+Couldn't find better connection, stopping!

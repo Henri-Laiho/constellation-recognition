@@ -1,0 +1,80 @@
+Check that object label is in categories:
+True
+Initial guess:
+pistol has probability of 0.51%
+1
+[(160, 112)]
+Line from (160, 112)->(163, 125)
+pistol has probability of 0.54%
+2
+[(160, 112), (163, 125)]
+Line from (160, 112)->(139, 109)
+pistol has probability of 0.80%
+3
+[(163, 125), (139, 109)]
+Line from (139, 109)->(145, 97)
+pistol has probability of 0.76%
+4
+[(163, 125), (145, 97)]
+Line from (145, 97)->(182, 97)
+pistol has probability of 3.28%
+5
+[(163, 125), (182, 97)]
+Line from (182, 97)->(160, 112)
+pistol has probability of 12.50%
+6
+[(163, 125), (160, 112)]
+Line from (160, 112)->(180, 136)
+pistol has probability of 16.03%
+7
+[(163, 125), (180, 136)]
+Line from (163, 125)->(169, 102)
+pistol has probability of 20.33%
+8
+[(180, 136), (169, 102)]
+Line from (180, 136)->(177, 134)
+pistol has probability of 20.36%
+9
+[(169, 102), (177, 134)]
+Line from (169, 102)->(125, 104)
+pistol has probability of 63.68%
+10
+[(177, 134), (125, 104)]
+Line from (125, 104)->(110, 104)
+pistol has probability of 64.20%
+11
+[(177, 134), (110, 104)]
+Line from (110, 104)->(107, 104)
+pistol has probability of 64.09%
+12
+[(177, 134), (107, 104)]
+Line from (107, 104)->(112, 116)
+pistol has probability of 66.81%
+13
+[(177, 134), (112, 116)]
+Line from (112, 116)->(98, 119)
+pistol has probability of 71.03%
+14
+[(177, 134), (98, 119)]
+Line from (177, 134)->(163, 125)
+pistol has probability of 80.70%
+15
+[(98, 119), (163, 125)]
+Line from (98, 119)->(129, 118)
+pistol has probability of 83.73%
+16
+[(163, 125), (129, 118)]
+Line from (129, 118)->(139, 109)
+pistol has probability of 87.79%
+17
+[(163, 125), (139, 109)]
+Line from (163, 125)->(180, 136)
+pistol has probability of 87.90%
+18
+[(139, 109), (180, 136)]
+Line from (139, 109)->(169, 102)
+pistol has probability of 88.44%
+19
+[(180, 136), (169, 102)]
+Line from (169, 102)->(160, 112)
+pistol has probability of 90.93%

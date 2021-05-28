@@ -1,0 +1,103 @@
+Check that object label is in categories:
+True
+Initial guess:
+snowman has probability of 0.27%
+1
+[(127, 128)]
+Line from (127, 128)->(130, 113)
+snowman has probability of 0.34%
+2
+[(127, 128), (130, 113)]
+Line from (127, 128)->(128, 149)
+snowman has probability of 0.74%
+3
+[(130, 113), (128, 149)]
+Line from (128, 149)->(135, 143)
+snowman has probability of 0.60%
+4
+[(130, 113), (135, 143)]
+Line from (135, 143)->(127, 128)
+snowman has probability of 0.66%
+5
+[(130, 113), (127, 128)]
+Line from (130, 113)->(157, 107)
+snowman has probability of 0.86%
+6
+[(127, 128), (157, 107)]
+Line from (157, 107)->(143, 100)
+snowman has probability of 0.77%
+7
+[(127, 128), (143, 100)]
+Line from (143, 100)->(149, 95)
+snowman has probability of 0.71%
+8
+[(127, 128), (149, 95)]
+Line from (149, 95)->(157, 107)
+snowman has probability of 0.74%
+9
+[(127, 128), (157, 107)]
+Line from (127, 128)->(152, 136)
+snowman has probability of 0.78%
+10
+[(157, 107), (152, 136)]
+Line from (152, 136)->(145, 148)
+snowman has probability of 0.75%
+11
+[(157, 107), (145, 148)]
+Line from (157, 107)->(154, 121)
+snowman has probability of 0.98%
+12
+[(145, 148), (154, 121)]
+Line from (154, 121)->(143, 100)
+snowman has probability of 1.01%
+13
+[(145, 148), (143, 100)]
+Line from (143, 100)->(130, 113)
+snowman has probability of 1.42%
+14
+[(145, 148), (130, 113)]
+Line from (145, 148)->(156, 158)
+snowman has probability of 1.71%
+15
+[(130, 113), (156, 158)]
+Line from (156, 158)->(167, 185)
+snowman has probability of 4.50%
+16
+[(130, 113), (167, 185)]
+Line from (167, 185)->(164, 199)
+snowman has probability of 7.26%
+17
+[(130, 113), (164, 199)]
+Line from (130, 113)->(154, 121)
+snowman has probability of 15.16%
+18
+[(164, 199), (154, 121)]
+Line from (164, 199)->(200, 199)
+snowman has probability of 43.26%
+19
+[(154, 121), (200, 199)]
+Line from (200, 199)->(206, 198)
+snowman has probability of 50.83%
+20
+[(154, 121), (206, 198)]
+Line from (206, 198)->(164, 199)
+snowman has probability of 51.22%
+21
+[(154, 121), (164, 199)]
+Line from (164, 199)->(152, 208)
+snowman has probability of 64.60%
+22
+[(154, 121), (152, 208)]
+Line from (152, 208)->(110, 210)
+snowman has probability of 73.73%
+23
+[(154, 121), (110, 210)]
+Line from (110, 210)->(127, 209)
+snowman has probability of 77.10%
+24
+[(154, 121), (127, 209)]
+Line from (127, 209)->(152, 208)
+snowman has probability of 77.29%
+25
+[(154, 121), (152, 208)]
+Couldn't find better connection, stopping!

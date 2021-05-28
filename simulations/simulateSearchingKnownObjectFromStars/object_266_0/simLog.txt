@@ -1,0 +1,179 @@
+Check that object label is in categories:
+True
+Initial guess:
+duck has probability of 0.13%
+1
+[(140, 147)]
+Line from (140, 147)->(118, 148)
+duck has probability of 0.25%
+2
+[(140, 147), (118, 148)]
+Line from (140, 147)->(148, 148)
+duck has probability of 0.27%
+3
+[(118, 148), (148, 148)]
+Line from (148, 148)->(152, 146)
+duck has probability of 0.27%
+4
+[(118, 148), (152, 146)]
+Line from (152, 146)->(180, 146)
+duck has probability of 0.69%
+5
+[(118, 148), (180, 146)]
+Line from (180, 146)->(196, 139)
+duck has probability of 1.22%
+6
+[(118, 148), (196, 139)]
+Line from (196, 139)->(185, 130)
+duck has probability of 1.26%
+7
+[(118, 148), (185, 130)]
+Line from (185, 130)->(186, 124)
+duck has probability of 0.71%
+8
+[(118, 148), (186, 124)]
+Line from (118, 148)->(118, 168)
+duck has probability of 0.62%
+9
+[(186, 124), (118, 168)]
+Line from (118, 168)->(131, 168)
+duck has probability of 0.82%
+10
+[(186, 124), (131, 168)]
+Line from (131, 168)->(143, 162)
+duck has probability of 0.55%
+11
+[(186, 124), (143, 162)]
+Line from (186, 124)->(172, 122)
+duck has probability of 0.40%
+12
+[(143, 162), (172, 122)]
+Line from (143, 162)->(156, 168)
+duck has probability of 0.39%
+13
+[(172, 122), (156, 168)]
+Line from (172, 122)->(185, 130)
+duck has probability of 0.36%
+14
+[(156, 168), (185, 130)]
+Line from (185, 130)->(209, 147)
+duck has probability of 0.32%
+15
+[(156, 168), (209, 147)]
+Line from (209, 147)->(196, 139)
+duck has probability of 0.29%
+16
+[(156, 168), (196, 139)]
+Line from (196, 139)->(186, 124)
+duck has probability of 0.28%
+17
+[(156, 168), (186, 124)]
+Line from (156, 168)->(169, 175)
+duck has probability of 0.21%
+18
+[(186, 124), (169, 175)]
+Line from (169, 175)->(185, 176)
+duck has probability of 0.19%
+19
+[(186, 124), (185, 176)]
+Line from (185, 176)->(170, 154)
+duck has probability of 0.30%
+20
+[(186, 124), (170, 154)]
+Line from (170, 154)->(180, 146)
+duck has probability of 0.25%
+21
+[(186, 124), (180, 146)]
+Line from (186, 124)->(209, 147)
+duck has probability of 0.28%
+22
+[(180, 146), (209, 147)]
+Line from (209, 147)->(220, 156)
+duck has probability of 0.27%
+23
+[(180, 146), (220, 156)]
+Line from (220, 156)->(233, 164)
+duck has probability of 0.30%
+24
+[(180, 146), (233, 164)]
+Line from (233, 164)->(244, 172)
+duck has probability of 0.27%
+25
+[(180, 146), (244, 172)]
+Line from (244, 172)->(214, 170)
+duck has probability of 0.45%
+26
+[(180, 146), (214, 170)]
+Line from (214, 170)->(233, 181)
+duck has probability of 0.54%
+27
+[(180, 146), (233, 181)]
+Line from (233, 181)->(211, 185)
+duck has probability of 0.55%
+28
+[(180, 146), (211, 185)]
+Line from (211, 185)->(169, 175)
+duck has probability of 1.10%
+29
+[(180, 146), (169, 175)]
+Line from (169, 175)->(148, 148)
+duck has probability of 1.81%
+30
+[(180, 146), (148, 148)]
+Line from (148, 148)->(196, 139)
+duck has probability of 2.81%
+31
+[(180, 146), (196, 139)]
+Line from (180, 146)->(148, 148)
+duck has probability of 3.02%
+32
+[(196, 139), (148, 148)]
+Line from (148, 148)->(156, 168)
+duck has probability of 2.62%
+33
+[(196, 139), (156, 168)]
+Line from (156, 168)->(185, 176)
+duck has probability of 2.96%
+34
+[(196, 139), (185, 176)]
+Line from (185, 176)->(194, 187)
+duck has probability of 3.52%
+35
+[(196, 139), (194, 187)]
+Line from (194, 187)->(194, 202)
+duck has probability of 2.81%
+36
+[(196, 139), (194, 202)]
+Line from (194, 202)->(185, 176)
+duck has probability of 3.89%
+37
+[(196, 139), (185, 176)]
+Line from (185, 176)->(211, 185)
+duck has probability of 5.03%
+38
+[(196, 139), (211, 185)]
+Line from (211, 185)->(244, 172)
+duck has probability of 7.40%
+39
+[(196, 139), (244, 172)]
+Line from (244, 172)->(233, 181)
+duck has probability of 10.12%
+40
+[(196, 139), (233, 181)]
+Line from (233, 181)->(185, 176)
+duck has probability of 13.24%
+41
+[(196, 139), (185, 176)]
+Line from (196, 139)->(170, 154)
+duck has probability of 12.60%
+42
+[(185, 176), (170, 154)]
+Line from (185, 176)->(148, 148)
+duck has probability of 12.95%
+43
+[(170, 154), (148, 148)]
+Line from (148, 148)->(170, 154)
+duck has probability of 12.89%
+44
+[(170, 154), (170, 154)]
+Couldn't find better connection, stopping!

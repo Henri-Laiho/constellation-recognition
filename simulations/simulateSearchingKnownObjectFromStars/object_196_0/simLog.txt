@@ -1,0 +1,155 @@
+Check that object label is in categories:
+True
+Initial guess:
+bird has probability of 0.33%
+1
+[(135, 141)]
+Line from (135, 141)->(134, 158)
+bird has probability of 0.36%
+2
+[(135, 141), (134, 158)]
+Line from (134, 158)->(141, 158)
+bird has probability of 0.35%
+3
+[(135, 141), (141, 158)]
+Line from (141, 158)->(144, 166)
+bird has probability of 0.40%
+4
+[(135, 141), (144, 166)]
+Line from (144, 166)->(121, 156)
+bird has probability of 0.77%
+5
+[(135, 141), (121, 156)]
+Line from (121, 156)->(126, 169)
+bird has probability of 1.15%
+6
+[(135, 141), (126, 169)]
+Line from (126, 169)->(121, 167)
+bird has probability of 1.12%
+7
+[(135, 141), (121, 167)]
+Line from (121, 167)->(121, 156)
+bird has probability of 1.13%
+8
+[(135, 141), (121, 156)]
+Line from (121, 156)->(108, 160)
+bird has probability of 1.62%
+9
+[(135, 141), (108, 160)]
+Line from (135, 141)->(141, 158)
+bird has probability of 1.30%
+10
+[(108, 160), (141, 158)]
+Line from (141, 158)->(121, 156)
+bird has probability of 1.97%
+11
+[(108, 160), (121, 156)]
+Line from (121, 156)->(134, 158)
+bird has probability of 2.38%
+12
+[(108, 160), (134, 158)]
+Line from (134, 158)->(144, 166)
+bird has probability of 2.68%
+13
+[(108, 160), (144, 166)]
+Line from (108, 160)->(109, 173)
+bird has probability of 2.72%
+14
+[(144, 166), (109, 173)]
+Line from (109, 173)->(119, 182)
+bird has probability of 2.91%
+15
+[(144, 166), (119, 182)]
+Line from (119, 182)->(126, 169)
+bird has probability of 2.52%
+16
+[(144, 166), (126, 169)]
+Line from (144, 166)->(135, 141)
+bird has probability of 2.71%
+17
+[(126, 169), (135, 141)]
+Line from (126, 169)->(136, 178)
+bird has probability of 1.89%
+18
+[(135, 141), (136, 178)]
+Line from (136, 178)->(157, 174)
+bird has probability of 2.68%
+19
+[(135, 141), (157, 174)]
+Line from (157, 174)->(164, 167)
+bird has probability of 2.54%
+20
+[(135, 141), (164, 167)]
+Line from (164, 167)->(183, 150)
+bird has probability of 3.22%
+21
+[(135, 141), (183, 150)]
+Line from (183, 150)->(186, 142)
+bird has probability of 3.66%
+22
+[(135, 141), (186, 142)]
+Line from (186, 142)->(197, 133)
+bird has probability of 3.87%
+23
+[(135, 141), (197, 133)]
+Line from (135, 141)->(101, 122)
+bird has probability of 4.99%
+24
+[(197, 133), (101, 122)]
+Line from (101, 122)->(117, 143)
+bird has probability of 11.79%
+25
+[(197, 133), (117, 143)]
+Line from (117, 143)->(109, 133)
+bird has probability of 12.37%
+26
+[(197, 133), (109, 133)]
+Line from (109, 133)->(101, 122)
+bird has probability of 13.85%
+27
+[(197, 133), (101, 122)]
+Line from (197, 133)->(183, 150)
+bird has probability of 15.55%
+28
+[(101, 122), (183, 150)]
+Line from (183, 150)->(182, 130)
+bird has probability of 17.83%
+29
+[(101, 122), (182, 130)]
+Line from (101, 122)->(96, 98)
+bird has probability of 17.32%
+30
+[(182, 130), (96, 98)]
+Line from (96, 98)->(107, 105)
+bird has probability of 26.85%
+31
+[(182, 130), (107, 105)]
+Line from (107, 105)->(118, 112)
+bird has probability of 29.31%
+32
+[(182, 130), (118, 112)]
+Line from (182, 130)->(192, 121)
+bird has probability of 30.88%
+33
+[(118, 112), (192, 121)]
+Line from (118, 112)->(128, 101)
+bird has probability of 30.51%
+34
+[(192, 121), (128, 101)]
+Line from (128, 101)->(129, 88)
+bird has probability of 30.95%
+35
+[(192, 121), (129, 88)]
+Line from (129, 88)->(141, 80)
+bird has probability of 33.66%
+36
+[(192, 121), (141, 80)]
+Line from (141, 80)->(148, 83)
+bird has probability of 36.65%
+37
+[(192, 121), (148, 83)]
+Line from (148, 83)->(152, 89)
+bird has probability of 38.43%
+38
+[(192, 121), (152, 89)]
+Couldn't find better connection, stopping!

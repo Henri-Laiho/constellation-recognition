@@ -1,0 +1,239 @@
+Check that object label is in categories:
+True
+Initial guess:
+car has probability of 0.32%
+1
+[(122, 127)]
+Line from (122, 127)->(135, 123)
+car has probability of 0.31%
+2
+[(122, 127), (135, 123)]
+Line from (135, 123)->(126, 113)
+car has probability of 0.33%
+3
+[(122, 127), (126, 113)]
+Line from (126, 113)->(139, 109)
+car has probability of 0.39%
+4
+[(122, 127), (139, 109)]
+Line from (139, 109)->(139, 100)
+car has probability of 0.37%
+5
+[(122, 127), (139, 100)]
+Line from (139, 100)->(143, 96)
+car has probability of 0.38%
+6
+[(122, 127), (143, 96)]
+Line from (143, 96)->(130, 100)
+car has probability of 0.41%
+7
+[(122, 127), (130, 100)]
+Line from (130, 100)->(139, 100)
+car has probability of 0.41%
+8
+[(122, 127), (139, 100)]
+Line from (139, 100)->(152, 107)
+car has probability of 0.42%
+9
+[(122, 127), (152, 107)]
+Line from (152, 107)->(148, 119)
+car has probability of 0.42%
+10
+[(122, 127), (148, 119)]
+Line from (148, 119)->(139, 109)
+car has probability of 0.43%
+11
+[(122, 127), (139, 109)]
+Line from (139, 109)->(152, 107)
+car has probability of 0.45%
+12
+[(122, 127), (152, 107)]
+Line from (122, 127)->(114, 116)
+car has probability of 0.45%
+13
+[(152, 107), (114, 116)]
+Line from (114, 116)->(109, 109)
+car has probability of 0.48%
+14
+[(152, 107), (109, 109)]
+Line from (109, 109)->(86, 108)
+car has probability of 0.69%
+15
+[(152, 107), (86, 108)]
+Line from (86, 108)->(73, 113)
+car has probability of 1.90%
+16
+[(152, 107), (73, 113)]
+Line from (152, 107)->(99, 104)
+car has probability of 4.18%
+17
+[(73, 113), (99, 104)]
+Line from (99, 104)->(86, 108)
+car has probability of 8.55%
+18
+[(73, 113), (86, 108)]
+Line from (73, 113)->(66, 127)
+car has probability of 11.67%
+19
+[(86, 108), (66, 127)]
+Line from (66, 127)->(108, 131)
+car has probability of 43.98%
+20
+[(86, 108), (108, 131)]
+Line from (108, 131)->(122, 127)
+car has probability of 47.61%
+21
+[(86, 108), (122, 127)]
+Line from (122, 127)->(101, 120)
+car has probability of 51.26%
+22
+[(86, 108), (101, 120)]
+Line from (86, 108)->(59, 109)
+car has probability of 55.24%
+23
+[(101, 120), (59, 109)]
+Line from (59, 109)->(47, 115)
+car has probability of 54.62%
+24
+[(101, 120), (47, 115)]
+Line from (101, 120)->(135, 123)
+car has probability of 56.06%
+25
+[(47, 115), (135, 123)]
+Line from (135, 123)->(148, 119)
+car has probability of 58.14%
+26
+[(47, 115), (148, 119)]
+Line from (148, 119)->(116, 103)
+car has probability of 60.29%
+27
+[(47, 115), (116, 103)]
+Line from (116, 103)->(99, 104)
+car has probability of 63.43%
+28
+[(47, 115), (99, 104)]
+Line from (99, 104)->(109, 109)
+car has probability of 63.88%
+29
+[(47, 115), (109, 109)]
+Line from (109, 109)->(122, 127)
+car has probability of 63.05%
+30
+[(47, 115), (122, 127)]
+Line from (122, 127)->(148, 119)
+car has probability of 63.10%
+31
+[(47, 115), (148, 119)]
+Line from (148, 119)->(108, 131)
+car has probability of 63.33%
+32
+[(47, 115), (108, 131)]
+Line from (108, 131)->(108, 138)
+car has probability of 62.57%
+33
+[(47, 115), (108, 138)]
+Line from (108, 138)->(114, 155)
+car has probability of 63.22%
+34
+[(47, 115), (114, 155)]
+Line from (114, 155)->(117, 143)
+car has probability of 62.92%
+35
+[(47, 115), (117, 143)]
+Line from (117, 143)->(96, 152)
+car has probability of 62.15%
+36
+[(47, 115), (96, 152)]
+Line from (96, 152)->(86, 143)
+car has probability of 62.21%
+37
+[(47, 115), (86, 143)]
+Line from (86, 143)->(73, 149)
+car has probability of 62.76%
+38
+[(47, 115), (73, 149)]
+Line from (73, 149)->(79, 155)
+car has probability of 64.17%
+39
+[(47, 115), (79, 155)]
+Line from (79, 155)->(66, 156)
+car has probability of 63.22%
+40
+[(47, 115), (66, 156)]
+Line from (66, 156)->(73, 149)
+car has probability of 62.26%
+41
+[(47, 115), (73, 149)]
+Line from (73, 149)->(60, 141)
+car has probability of 64.20%
+42
+[(47, 115), (60, 141)]
+Line from (60, 141)->(66, 156)
+car has probability of 63.22%
+43
+[(47, 115), (66, 156)]
+Line from (47, 115)->(38, 132)
+car has probability of 63.61%
+44
+[(66, 156), (38, 132)]
+Line from (38, 132)->(34, 120)
+car has probability of 65.97%
+45
+[(66, 156), (34, 120)]
+Line from (34, 120)->(23, 126)
+car has probability of 68.48%
+46
+[(66, 156), (23, 126)]
+Line from (23, 126)->(27, 139)
+car has probability of 69.51%
+47
+[(66, 156), (27, 139)]
+Line from (27, 139)->(22, 135)
+car has probability of 69.69%
+48
+[(66, 156), (22, 135)]
+Line from (22, 135)->(14, 136)
+car has probability of 68.95%
+49
+[(66, 156), (14, 136)]
+Line from (14, 136)->(27, 139)
+car has probability of 70.58%
+50
+[(66, 156), (27, 139)]
+Line from (27, 139)->(35, 151)
+car has probability of 71.08%
+51
+[(66, 156), (35, 151)]
+Line from (35, 151)->(26, 160)
+car has probability of 71.51%
+52
+[(66, 156), (26, 160)]
+Line from (26, 160)->(39, 166)
+car has probability of 71.33%
+53
+[(66, 156), (39, 166)]
+Line from (66, 156)->(74, 138)
+car has probability of 75.51%
+54
+[(39, 166), (74, 138)]
+Line from (74, 138)->(73, 149)
+car has probability of 76.13%
+55
+[(39, 166), (73, 149)]
+Line from (39, 166)->(27, 139)
+car has probability of 75.25%
+56
+[(73, 149), (27, 139)]
+Line from (27, 139)->(26, 160)
+car has probability of 78.93%
+57
+[(73, 149), (26, 160)]
+Line from (26, 160)->(50, 159)
+car has probability of 77.97%
+58
+[(73, 149), (50, 159)]
+Line from (73, 149)->(96, 152)
+car has probability of 77.15%
+59
+[(50, 159), (96, 152)]
+Couldn't find better connection, stopping!

@@ -1,0 +1,591 @@
+Check that object label is in categories:
+True
+Initial guess:
+aquarium fish has probability of 1.04%
+1
+[(136, 120)]
+Line from (136, 120)->(123, 122)
+aquarium fish has probability of 0.94%
+2
+[(136, 120), (123, 122)]
+Line from (123, 122)->(119, 128)
+aquarium fish has probability of 0.70%
+3
+[(136, 120), (119, 128)]
+Line from (119, 128)->(114, 132)
+aquarium fish has probability of 0.59%
+4
+[(136, 120), (114, 132)]
+Line from (114, 132)->(125, 139)
+aquarium fish has probability of 0.52%
+5
+[(136, 120), (125, 139)]
+Line from (125, 139)->(134, 144)
+aquarium fish has probability of 0.48%
+6
+[(136, 120), (134, 144)]
+Line from (136, 120)->(130, 108)
+aquarium fish has probability of 0.59%
+7
+[(134, 144), (130, 108)]
+Line from (130, 108)->(132, 98)
+aquarium fish has probability of 0.59%
+8
+[(134, 144), (132, 98)]
+Line from (132, 98)->(133, 93)
+aquarium fish has probability of 0.60%
+9
+[(134, 144), (133, 93)]
+Line from (133, 93)->(122, 98)
+aquarium fish has probability of 0.85%
+10
+[(134, 144), (122, 98)]
+Line from (122, 98)->(132, 98)
+aquarium fish has probability of 0.84%
+11
+[(134, 144), (132, 98)]
+Line from (134, 144)->(147, 146)
+aquarium fish has probability of 0.83%
+12
+[(132, 98), (147, 146)]
+Line from (147, 146)->(114, 132)
+aquarium fish has probability of 1.11%
+13
+[(132, 98), (114, 132)]
+Line from (114, 132)->(123, 122)
+aquarium fish has probability of 1.02%
+14
+[(132, 98), (123, 122)]
+Line from (123, 122)->(114, 111)
+aquarium fish has probability of 0.74%
+15
+[(132, 98), (114, 111)]
+Line from (114, 111)->(136, 120)
+aquarium fish has probability of 1.22%
+16
+[(132, 98), (136, 120)]
+Line from (132, 98)->(138, 80)
+aquarium fish has probability of 1.10%
+17
+[(136, 120), (138, 80)]
+Line from (138, 80)->(151, 72)
+aquarium fish has probability of 1.62%
+18
+[(136, 120), (151, 72)]
+Line from (136, 120)->(122, 98)
+aquarium fish has probability of 2.25%
+19
+[(151, 72), (122, 98)]
+Line from (122, 98)->(130, 108)
+aquarium fish has probability of 2.18%
+20
+[(151, 72), (130, 108)]
+Line from (130, 108)->(133, 93)
+aquarium fish has probability of 2.24%
+21
+[(151, 72), (133, 93)]
+Line from (133, 93)->(138, 80)
+aquarium fish has probability of 2.25%
+22
+[(151, 72), (138, 80)]
+Line from (151, 72)->(139, 67)
+aquarium fish has probability of 2.14%
+23
+[(138, 80), (139, 67)]
+Line from (139, 67)->(123, 74)
+aquarium fish has probability of 1.99%
+24
+[(138, 80), (123, 74)]
+Line from (138, 80)->(139, 67)
+aquarium fish has probability of 1.73%
+25
+[(123, 74), (139, 67)]
+Line from (123, 74)->(107, 77)
+aquarium fish has probability of 1.66%
+26
+[(139, 67), (107, 77)]
+Line from (107, 77)->(99, 67)
+aquarium fish has probability of 1.73%
+27
+[(139, 67), (99, 67)]
+Line from (99, 67)->(86, 69)
+aquarium fish has probability of 1.53%
+28
+[(139, 67), (86, 69)]
+Line from (86, 69)->(74, 77)
+aquarium fish has probability of 1.60%
+29
+[(139, 67), (74, 77)]
+Line from (74, 77)->(62, 83)
+aquarium fish has probability of 1.69%
+30
+[(139, 67), (62, 83)]
+Line from (62, 83)->(52, 90)
+aquarium fish has probability of 1.84%
+31
+[(139, 67), (52, 90)]
+Line from (52, 90)->(75, 98)
+aquarium fish has probability of 2.64%
+32
+[(139, 67), (75, 98)]
+Line from (75, 98)->(122, 98)
+aquarium fish has probability of 5.42%
+33
+[(139, 67), (122, 98)]
+Line from (139, 67)->(110, 61)
+aquarium fish has probability of 7.85%
+34
+[(122, 98), (110, 61)]
+Line from (110, 61)->(107, 77)
+aquarium fish has probability of 9.50%
+35
+[(122, 98), (107, 77)]
+Line from (107, 77)->(117, 86)
+aquarium fish has probability of 10.01%
+36
+[(122, 98), (117, 86)]
+Line from (117, 86)->(106, 93)
+aquarium fish has probability of 10.64%
+37
+[(122, 98), (106, 93)]
+Line from (106, 93)->(94, 83)
+aquarium fish has probability of 11.74%
+38
+[(122, 98), (94, 83)]
+Line from (94, 83)->(86, 69)
+aquarium fish has probability of 13.28%
+39
+[(122, 98), (86, 69)]
+Line from (122, 98)->(138, 80)
+aquarium fish has probability of 13.43%
+40
+[(86, 69), (138, 80)]
+Line from (86, 69)->(110, 61)
+aquarium fish has probability of 14.08%
+41
+[(138, 80), (110, 61)]
+Line from (110, 61)->(127, 61)
+aquarium fish has probability of 18.77%
+42
+[(138, 80), (127, 61)]
+Line from (127, 61)->(139, 67)
+aquarium fish has probability of 19.61%
+43
+[(138, 80), (139, 67)]
+Line from (138, 80)->(150, 86)
+aquarium fish has probability of 19.01%
+44
+[(139, 67), (150, 86)]
+Line from (150, 86)->(133, 93)
+aquarium fish has probability of 20.50%
+45
+[(139, 67), (133, 93)]
+Line from (139, 67)->(150, 86)
+aquarium fish has probability of 20.45%
+46
+[(133, 93), (150, 86)]
+Line from (150, 86)->(143, 104)
+aquarium fish has probability of 20.88%
+47
+[(133, 93), (143, 104)]
+Line from (143, 104)->(130, 108)
+aquarium fish has probability of 24.35%
+48
+[(133, 93), (130, 108)]
+Line from (133, 93)->(143, 104)
+aquarium fish has probability of 24.44%
+49
+[(130, 108), (143, 104)]
+Line from (130, 108)->(138, 80)
+aquarium fish has probability of 23.98%
+50
+[(143, 104), (138, 80)]
+Line from (143, 104)->(151, 72)
+aquarium fish has probability of 24.76%
+51
+[(138, 80), (151, 72)]
+Line from (151, 72)->(150, 86)
+aquarium fish has probability of 24.01%
+52
+[(138, 80), (150, 86)]
+Line from (150, 86)->(122, 98)
+aquarium fish has probability of 25.09%
+53
+[(138, 80), (122, 98)]
+Line from (138, 80)->(106, 93)
+aquarium fish has probability of 24.45%
+54
+[(122, 98), (106, 93)]
+Line from (106, 93)->(83, 82)
+aquarium fish has probability of 23.49%
+55
+[(122, 98), (83, 82)]
+Line from (83, 82)->(74, 77)
+aquarium fish has probability of 22.75%
+56
+[(122, 98), (74, 77)]
+Line from (74, 77)->(75, 98)
+aquarium fish has probability of 23.70%
+57
+[(122, 98), (75, 98)]
+Line from (122, 98)->(114, 111)
+aquarium fish has probability of 23.67%
+58
+[(75, 98), (114, 111)]
+Line from (75, 98)->(62, 83)
+aquarium fish has probability of 23.80%
+59
+[(114, 111), (62, 83)]
+Line from (62, 83)->(41, 98)
+aquarium fish has probability of 24.96%
+60
+[(114, 111), (41, 98)]
+Line from (41, 98)->(52, 90)
+aquarium fish has probability of 24.61%
+61
+[(114, 111), (52, 90)]
+Line from (52, 90)->(32, 108)
+aquarium fish has probability of 25.15%
+62
+[(114, 111), (32, 108)]
+Line from (32, 108)->(41, 117)
+aquarium fish has probability of 24.95%
+63
+[(114, 111), (41, 117)]
+Line from (41, 117)->(28, 120)
+aquarium fish has probability of 27.00%
+64
+[(114, 111), (28, 120)]
+Line from (28, 120)->(37, 130)
+aquarium fish has probability of 29.33%
+65
+[(114, 111), (37, 130)]
+Line from (37, 130)->(41, 117)
+aquarium fish has probability of 31.34%
+66
+[(114, 111), (41, 117)]
+Line from (41, 117)->(41, 98)
+aquarium fish has probability of 32.71%
+67
+[(114, 111), (41, 98)]
+Line from (41, 98)->(32, 108)
+aquarium fish has probability of 31.93%
+68
+[(114, 111), (32, 108)]
+Line from (114, 111)->(119, 128)
+aquarium fish has probability of 31.89%
+69
+[(32, 108), (119, 128)]
+Line from (32, 108)->(37, 130)
+aquarium fish has probability of 30.99%
+70
+[(119, 128), (37, 130)]
+Line from (119, 128)->(94, 139)
+aquarium fish has probability of 32.88%
+71
+[(37, 130), (94, 139)]
+Line from (94, 139)->(101, 152)
+aquarium fish has probability of 34.55%
+72
+[(37, 130), (101, 152)]
+Line from (101, 152)->(114, 132)
+aquarium fish has probability of 34.24%
+73
+[(37, 130), (114, 132)]
+Line from (114, 132)->(94, 139)
+aquarium fish has probability of 34.96%
+74
+[(37, 130), (94, 139)]
+Line from (37, 130)->(50, 132)
+aquarium fish has probability of 33.96%
+75
+[(94, 139), (50, 132)]
+Line from (50, 132)->(50, 126)
+aquarium fish has probability of 33.13%
+76
+[(94, 139), (50, 126)]
+Line from (50, 126)->(41, 117)
+aquarium fish has probability of 33.60%
+77
+[(94, 139), (41, 117)]
+Line from (41, 117)->(50, 132)
+aquarium fish has probability of 34.12%
+78
+[(94, 139), (50, 132)]
+Line from (50, 132)->(60, 132)
+aquarium fish has probability of 34.78%
+79
+[(94, 139), (60, 132)]
+Line from (60, 132)->(50, 126)
+aquarium fish has probability of 34.86%
+80
+[(94, 139), (50, 126)]
+Line from (50, 126)->(66, 119)
+aquarium fish has probability of 35.24%
+81
+[(94, 139), (66, 119)]
+Line from (66, 119)->(68, 107)
+aquarium fish has probability of 36.15%
+82
+[(94, 139), (68, 107)]
+Line from (68, 107)->(75, 98)
+aquarium fish has probability of 35.49%
+83
+[(94, 139), (75, 98)]
+Line from (75, 98)->(79, 115)
+aquarium fish has probability of 34.84%
+84
+[(94, 139), (79, 115)]
+Line from (79, 115)->(66, 119)
+aquarium fish has probability of 36.42%
+85
+[(94, 139), (66, 119)]
+Line from (94, 139)->(79, 132)
+aquarium fish has probability of 35.86%
+86
+[(66, 119), (79, 132)]
+Line from (66, 119)->(79, 132)
+aquarium fish has probability of 38.43%
+87
+[(79, 132), (79, 132)]
+Line from (79, 132)->(68, 107)
+aquarium fish has probability of 38.68%
+88
+[(79, 132), (68, 107)]
+Line from (68, 107)->(79, 115)
+aquarium fish has probability of 37.68%
+89
+[(79, 132), (79, 115)]
+Line from (79, 132)->(79, 115)
+aquarium fish has probability of 40.81%
+90
+[(79, 115), (79, 115)]
+Line from (79, 115)->(60, 132)
+aquarium fish has probability of 41.52%
+91
+[(79, 115), (60, 132)]
+Line from (60, 132)->(37, 130)
+aquarium fish has probability of 40.61%
+92
+[(79, 115), (37, 130)]
+Line from (79, 115)->(94, 139)
+aquarium fish has probability of 39.69%
+93
+[(37, 130), (94, 139)]
+Line from (37, 130)->(46, 143)
+aquarium fish has probability of 39.32%
+94
+[(94, 139), (46, 143)]
+Line from (46, 143)->(50, 132)
+aquarium fish has probability of 39.65%
+95
+[(94, 139), (50, 132)]
+Line from (50, 132)->(64, 144)
+aquarium fish has probability of 39.73%
+96
+[(94, 139), (64, 144)]
+Line from (64, 144)->(60, 132)
+aquarium fish has probability of 39.82%
+97
+[(94, 139), (60, 132)]
+Line from (60, 132)->(66, 119)
+aquarium fish has probability of 39.44%
+98
+[(94, 139), (66, 119)]
+Line from (94, 139)->(113, 147)
+aquarium fish has probability of 40.49%
+99
+[(66, 119), (113, 147)]
+Line from (113, 147)->(101, 152)
+aquarium fish has probability of 39.53%
+100
+[(66, 119), (101, 152)]
+Line from (66, 119)->(50, 132)
+aquarium fish has probability of 39.93%
+101
+[(101, 152), (50, 132)]
+Line from (50, 132)->(79, 132)
+aquarium fish has probability of 39.85%
+102
+[(101, 152), (79, 132)]
+Line from (79, 132)->(60, 132)
+aquarium fish has probability of 39.78%
+103
+[(101, 152), (60, 132)]
+Line from (60, 132)->(68, 107)
+aquarium fish has probability of 39.36%
+104
+[(101, 152), (68, 107)]
+Line from (68, 107)->(46, 143)
+aquarium fish has probability of 38.75%
+105
+[(101, 152), (46, 143)]
+Line from (46, 143)->(28, 120)
+aquarium fish has probability of 38.90%
+106
+[(101, 152), (28, 120)]
+Line from (28, 120)->(32, 108)
+aquarium fish has probability of 41.43%
+107
+[(101, 152), (32, 108)]
+Line from (32, 108)->(50, 126)
+aquarium fish has probability of 41.38%
+108
+[(101, 152), (50, 126)]
+Line from (50, 126)->(37, 130)
+aquarium fish has probability of 40.56%
+109
+[(101, 152), (37, 130)]
+Line from (37, 130)->(66, 119)
+aquarium fish has probability of 40.59%
+110
+[(101, 152), (66, 119)]
+Line from (66, 119)->(94, 139)
+aquarium fish has probability of 42.25%
+111
+[(101, 152), (94, 139)]
+Line from (94, 139)->(64, 144)
+aquarium fish has probability of 43.54%
+112
+[(101, 152), (64, 144)]
+Line from (64, 144)->(79, 132)
+aquarium fish has probability of 42.97%
+113
+[(101, 152), (79, 132)]
+Line from (79, 132)->(113, 147)
+aquarium fish has probability of 42.20%
+114
+[(101, 152), (113, 147)]
+Line from (101, 152)->(123, 122)
+aquarium fish has probability of 41.29%
+115
+[(113, 147), (123, 122)]
+Line from (123, 122)->(134, 144)
+aquarium fish has probability of 45.90%
+116
+[(113, 147), (134, 144)]
+Line from (134, 144)->(114, 132)
+aquarium fish has probability of 46.82%
+117
+[(113, 147), (114, 132)]
+Line from (114, 132)->(64, 144)
+aquarium fish has probability of 48.04%
+118
+[(113, 147), (64, 144)]
+Line from (64, 144)->(46, 143)
+aquarium fish has probability of 47.54%
+119
+[(113, 147), (46, 143)]
+Line from (46, 143)->(32, 108)
+aquarium fish has probability of 46.60%
+120
+[(113, 147), (32, 108)]
+Line from (32, 108)->(62, 83)
+aquarium fish has probability of 48.14%
+121
+[(113, 147), (62, 83)]
+Line from (62, 83)->(83, 82)
+aquarium fish has probability of 48.62%
+122
+[(113, 147), (83, 82)]
+Line from (83, 82)->(94, 83)
+aquarium fish has probability of 48.50%
+123
+[(113, 147), (94, 83)]
+Line from (94, 83)->(62, 83)
+aquarium fish has probability of 48.61%
+124
+[(113, 147), (62, 83)]
+Line from (62, 83)->(86, 69)
+aquarium fish has probability of 47.68%
+125
+[(113, 147), (86, 69)]
+Line from (86, 69)->(83, 82)
+aquarium fish has probability of 49.12%
+126
+[(113, 147), (83, 82)]
+Line from (83, 82)->(99, 67)
+aquarium fish has probability of 48.42%
+127
+[(113, 147), (99, 67)]
+Line from (99, 67)->(110, 61)
+aquarium fish has probability of 48.36%
+128
+[(113, 147), (110, 61)]
+Line from (110, 61)->(123, 74)
+aquarium fish has probability of 49.84%
+129
+[(113, 147), (123, 74)]
+Line from (123, 74)->(127, 61)
+aquarium fish has probability of 53.47%
+130
+[(113, 147), (127, 61)]
+Line from (127, 61)->(148, 44)
+aquarium fish has probability of 55.03%
+131
+[(113, 147), (148, 44)]
+Line from (148, 44)->(139, 54)
+aquarium fish has probability of 55.75%
+132
+[(113, 147), (139, 54)]
+Line from (139, 54)->(123, 74)
+aquarium fish has probability of 54.83%
+133
+[(113, 147), (123, 74)]
+Line from (123, 74)->(99, 67)
+aquarium fish has probability of 53.93%
+134
+[(113, 147), (99, 67)]
+Line from (99, 67)->(94, 83)
+aquarium fish has probability of 54.69%
+135
+[(113, 147), (94, 83)]
+Line from (94, 83)->(74, 77)
+aquarium fish has probability of 55.67%
+136
+[(113, 147), (74, 77)]
+Line from (74, 77)->(52, 90)
+aquarium fish has probability of 56.30%
+137
+[(113, 147), (52, 90)]
+Line from (52, 90)->(86, 69)
+aquarium fish has probability of 56.45%
+138
+[(113, 147), (86, 69)]
+Line from (86, 69)->(117, 86)
+aquarium fish has probability of 55.57%
+139
+[(113, 147), (117, 86)]
+Line from (117, 86)->(110, 61)
+aquarium fish has probability of 55.75%
+140
+[(113, 147), (110, 61)]
+Line from (110, 61)->(139, 54)
+aquarium fish has probability of 55.12%
+141
+[(113, 147), (139, 54)]
+Line from (139, 54)->(127, 61)
+aquarium fish has probability of 54.53%
+142
+[(113, 147), (127, 61)]
+Line from (127, 61)->(151, 72)
+aquarium fish has probability of 53.77%
+143
+[(113, 147), (151, 72)]
+Line from (151, 72)->(133, 93)
+aquarium fish has probability of 54.99%
+144
+[(113, 147), (133, 93)]
+Line from (133, 93)->(114, 111)
+aquarium fish has probability of 54.62%
+145
+[(113, 147), (114, 111)]
+Line from (114, 111)->(106, 93)
+aquarium fish has probability of 53.91%
+146
+[(113, 147), (106, 93)]
+Line from (106, 93)->(107, 77)
+aquarium fish has probability of 53.56%
+147
+[(113, 147), (107, 77)]
+Couldn't find better connection, stopping!

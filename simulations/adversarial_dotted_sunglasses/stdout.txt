@@ -1,0 +1,483 @@
+Trying to fool for sunglasses
+object_196
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+          forest: 5.30%
+           plain: 5.22%
+           snake: 4.98%
+            worm: 3.64%
+           table: 3.59%
+object_201
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.90%
+           chair: 4.67%
+           snake: 4.53%
+      sunglasses: 3.47%
+           table: 2.88%
+object_206
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 4.34%
+           chair: 3.89%
+           snake: 3.77%
+             ray: 3.08%
+      sunglasses: 2.94%
+object_211
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 10.56%
+    sweet_pepper: 5.56%
+           donut: 4.33%
+           snake: 3.65%
+     willow_tree: 3.38%
+object_225
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 7.32%
+           chair: 5.04%
+            worm: 3.15%
+           plain: 3.15%
+           table: 2.82%
+object_229
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.78%
+           snake: 5.53%
+      sunglasses: 3.63%
+             pen: 3.01%
+           plate: 2.87%
+object_230
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 5.64%
+           plain: 4.00%
+           snake: 3.93%
+       pine_tree: 2.97%
+             pen: 2.92%
+object_234
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 4.79%
+            skis: 4.43%
+           chair: 3.73%
+             pen: 3.40%
+          forest: 2.41%
+object_243
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 5.44%
+           plain: 5.19%
+           chair: 4.04%
+           table: 3.57%
+           plate: 2.87%
+object_244
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 4.48%
+           plain: 4.21%
+      sunglasses: 4.14%
+           snake: 3.23%
+             bee: 3.23%
+object_248
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 5.37%
+           snake: 4.81%
+           plain: 4.05%
+           table: 3.36%
+             tie: 2.83%
+object_256
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            kite: 7.10%
+           chair: 5.88%
+      sunglasses: 4.58%
+            worm: 3.30%
+           plain: 3.30%
+object_263
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 7.26%
+            kite: 3.77%
+           plain: 3.77%
+           chair: 3.65%
+            worm: 3.38%
+object_266
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.02%
+           chair: 3.94%
+           snake: 3.22%
+          forest: 3.07%
+           plate: 2.47%
+object_322
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.02%
+           snake: 5.31%
+           chair: 5.07%
+            kite: 4.01%
+           table: 3.71%
+object_324
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 7.21%
+           snake: 6.57%
+           chair: 3.99%
+           plate: 3.06%
+          forest: 3.06%
+object_338
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 5.55%
+           snake: 4.39%
+           table: 3.76%
+             bee: 2.88%
+    sweet_pepper: 2.84%
+object_339
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 4.40%
+   tennis racket: 3.88%
+           plain: 3.70%
+          forest: 3.54%
+            kite: 3.02%
+object_341
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 5.91%
+           plain: 5.73%
+          forest: 5.47%
+           table: 4.53%
+           chair: 4.00%
+object_345
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            skis: 5.68%
+   tennis racket: 5.59%
+           plain: 5.25%
+       pine_tree: 4.15%
+            worm: 3.39%
+object_351
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 7.34%
+           plain: 6.38%
+           table: 5.12%
+             pen: 3.93%
+           plate: 3.58%
+object_367
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 5.89%
+           chair: 4.24%
+           snake: 4.11%
+      sunglasses: 3.52%
+             pen: 3.20%
+object_369
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            kite: 3.93%
+           snake: 3.58%
+            skis: 3.41%
+           plain: 2.87%
+           chair: 2.83%
+object_385
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           snake: 5.37%
+           table: 4.82%
+           chair: 4.82%
+           plain: 4.18%
+             tie: 3.63%
+object_391
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 3.70%
+            worm: 2.84%
+           plain: 2.84%
+           snake: 2.67%
+          person: 2.35%
+object_409
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 3.13%
+            kite: 2.85%
+           chair: 2.72%
+            skis: 2.64%
+             cow: 2.48%
+object_410
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 5.44%
+           snake: 5.04%
+            worm: 3.98%
+            kite: 3.68%
+           plain: 3.10%
+object_411
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 8.40%
+          forest: 5.26%
+           snake: 4.09%
+           plate: 4.03%
+      sunglasses: 3.24%
+object_412
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 7.93%
+      sunglasses: 4.38%
+           table: 3.80%
+           snake: 3.80%
+           chair: 3.36%
+object_413
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            worm: 4.36%
+           snake: 3.67%
+           chair: 3.51%
+    sweet_pepper: 3.30%
+      lawn_mower: 3.00%
+object_419
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 5.69%
+           chair: 4.16%
+      sunglasses: 4.03%
+            kite: 3.62%
+           snake: 2.82%
+object_432
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 4.65%
+           plain: 3.98%
+           snake: 3.86%
+            skis: 3.74%
+            worm: 2.78%
+object_439
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 7.36%
+      sunglasses: 3.70%
+            kite: 3.07%
+           snake: 2.84%
+             pen: 2.71%
+object_440
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.16%
+           snake: 5.70%
+           chair: 3.30%
+          forest: 3.15%
+           table: 3.10%
+object_442
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 7.96%
+           chair: 3.76%
+             tie: 3.53%
+      sunglasses: 3.37%
+           plate: 3.32%
+object_447
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 7.34%
+           chair: 6.08%
+      sunglasses: 4.31%
+             tie: 3.63%
+           snake: 2.66%
+object_448
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            worm: 4.03%
+    sweet_pepper: 3.97%
+           plain: 3.78%
+           snake: 3.61%
+           chair: 3.39%
+object_449
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plate: 4.21%
+             pen: 3.23%
+           plain: 3.13%
+           chair: 3.13%
+             can: 2.36%
+object_451
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+   tennis racket: 4.68%
+            worm: 4.20%
+           snake: 4.14%
+           plain: 3.95%
+      lawn_mower: 3.59%
+object_452
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.17%
+           chair: 3.30%
+           snake: 3.01%
+           table: 3.01%
+      sunglasses: 2.87%
+object_453
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 5.13%
+           table: 4.97%
+           snake: 4.39%
+          forest: 4.32%
+           chair: 3.64%
+object_455
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 6.54%
+           snake: 3.67%
+           chair: 3.24%
+           plate: 2.91%
+      sunglasses: 2.73%
+object_457
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 5.25%
+           chair: 5.09%
+           table: 4.64%
+           snake: 3.55%
+           plate: 2.81%
+object_463
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           chair: 3.48%
+           snake: 3.32%
+           plain: 3.32%
+           table: 3.02%
+            skis: 2.80%
+object_468
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+            kite: 5.20%
+           plain: 4.59%
+           snake: 4.52%
+    sweet_pepper: 4.12%
+           chair: 3.87%
+object_471
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           table: 5.62%
+           snake: 5.36%
+           plain: 5.28%
+            kite: 4.31%
+            skis: 3.63%
+object_473
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+       pine_tree: 4.64%
+            kite: 3.67%
+            worm: 3.39%
+             pen: 3.34%
+            skis: 3.24%
+object_478
+final_easy
+Step 30/30
+Top predictions for final_easy :
+
+           plain: 4.71%
+            kite: 4.29%
+    sweet_pepper: 4.16%
+           snake: 2.95%
+            worm: 2.81%
+
+Process finished with exit code 0

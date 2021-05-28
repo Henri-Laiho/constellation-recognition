@@ -1,0 +1,606 @@
+Check that object label is in categories:
+True
+Initial guess:
+baby has probability of 0.20%
+1
+[(129, 130)]
+Line from (129, 130)->(123, 122)
+baby has probability of 0.24%
+2
+[(129, 130), (123, 122)]
+Line from (123, 122)->(129, 116)
+baby has probability of 0.27%
+3
+[(129, 130), (129, 116)]
+Line from (129, 130)->(126, 142)
+baby has probability of 0.29%
+4
+[(129, 116), (126, 142)]
+Line from (126, 142)->(120, 144)
+baby has probability of 0.27%
+5
+[(129, 116), (120, 144)]
+Line from (120, 144)->(107, 138)
+baby has probability of 0.33%
+6
+[(129, 116), (107, 138)]
+Line from (107, 138)->(107, 152)
+baby has probability of 0.34%
+7
+[(129, 116), (107, 152)]
+Line from (107, 152)->(100, 163)
+baby has probability of 0.40%
+8
+[(129, 116), (100, 163)]
+Line from (100, 163)->(94, 175)
+baby has probability of 0.42%
+9
+[(129, 116), (94, 175)]
+Line from (94, 175)->(86, 176)
+baby has probability of 0.44%
+10
+[(129, 116), (86, 176)]
+Line from (86, 176)->(95, 188)
+baby has probability of 0.49%
+11
+[(129, 116), (95, 188)]
+Line from (95, 188)->(94, 175)
+baby has probability of 0.51%
+12
+[(129, 116), (94, 175)]
+Line from (129, 116)->(108, 125)
+baby has probability of 0.60%
+13
+[(94, 175), (108, 125)]
+Line from (108, 125)->(107, 138)
+baby has probability of 0.63%
+14
+[(94, 175), (107, 138)]
+Line from (107, 138)->(126, 142)
+baby has probability of 0.60%
+15
+[(94, 175), (126, 142)]
+Line from (126, 142)->(133, 150)
+baby has probability of 0.61%
+16
+[(94, 175), (133, 150)]
+Line from (133, 150)->(131, 155)
+baby has probability of 0.58%
+17
+[(94, 175), (131, 155)]
+Line from (131, 155)->(140, 151)
+baby has probability of 0.58%
+18
+[(94, 175), (140, 151)]
+Line from (140, 151)->(133, 150)
+baby has probability of 0.56%
+19
+[(94, 175), (133, 150)]
+Line from (133, 150)->(120, 144)
+baby has probability of 0.54%
+20
+[(94, 175), (120, 144)]
+Line from (120, 144)->(107, 152)
+baby has probability of 0.54%
+21
+[(94, 175), (107, 152)]
+Line from (107, 152)->(126, 142)
+baby has probability of 0.55%
+22
+[(94, 175), (126, 142)]
+Line from (126, 142)->(131, 155)
+baby has probability of 0.50%
+23
+[(94, 175), (131, 155)]
+Line from (131, 155)->(134, 168)
+baby has probability of 0.50%
+24
+[(94, 175), (134, 168)]
+Line from (134, 168)->(138, 179)
+baby has probability of 0.55%
+25
+[(94, 175), (138, 179)]
+Line from (138, 179)->(142, 180)
+baby has probability of 0.55%
+26
+[(94, 175), (142, 180)]
+Line from (142, 180)->(147, 192)
+baby has probability of 0.55%
+27
+[(94, 175), (147, 192)]
+Line from (147, 192)->(159, 197)
+baby has probability of 0.69%
+28
+[(94, 175), (159, 197)]
+Line from (159, 197)->(164, 196)
+baby has probability of 0.71%
+29
+[(94, 175), (164, 196)]
+Line from (164, 196)->(174, 194)
+baby has probability of 0.76%
+30
+[(94, 175), (174, 194)]
+Line from (174, 194)->(175, 207)
+baby has probability of 0.81%
+31
+[(94, 175), (175, 207)]
+Line from (175, 207)->(167, 218)
+baby has probability of 0.86%
+32
+[(94, 175), (167, 218)]
+Line from (167, 218)->(161, 226)
+baby has probability of 0.92%
+33
+[(94, 175), (161, 226)]
+Line from (161, 226)->(168, 239)
+baby has probability of 0.85%
+34
+[(94, 175), (168, 239)]
+Line from (168, 239)->(167, 218)
+baby has probability of 0.78%
+35
+[(94, 175), (167, 218)]
+Line from (167, 218)->(155, 210)
+baby has probability of 0.72%
+36
+[(94, 175), (155, 210)]
+Line from (155, 210)->(142, 207)
+baby has probability of 0.71%
+37
+[(94, 175), (142, 207)]
+Line from (142, 207)->(128, 202)
+baby has probability of 0.74%
+38
+[(94, 175), (128, 202)]
+Line from (128, 202)->(133, 190)
+baby has probability of 0.76%
+39
+[(94, 175), (133, 190)]
+Line from (133, 190)->(138, 179)
+baby has probability of 0.75%
+40
+[(94, 175), (138, 179)]
+Line from (138, 179)->(147, 192)
+baby has probability of 0.76%
+41
+[(94, 175), (147, 192)]
+Line from (147, 192)->(155, 210)
+baby has probability of 0.82%
+42
+[(94, 175), (155, 210)]
+Line from (155, 210)->(159, 197)
+baby has probability of 0.72%
+43
+[(94, 175), (159, 197)]
+Line from (159, 197)->(165, 183)
+baby has probability of 0.72%
+44
+[(94, 175), (165, 183)]
+Line from (165, 183)->(164, 196)
+baby has probability of 0.71%
+45
+[(94, 175), (164, 196)]
+Line from (164, 196)->(175, 207)
+baby has probability of 0.76%
+46
+[(94, 175), (175, 207)]
+Line from (175, 207)->(188, 208)
+baby has probability of 0.79%
+47
+[(94, 175), (188, 208)]
+Line from (188, 208)->(203, 207)
+baby has probability of 0.77%
+48
+[(94, 175), (203, 207)]
+Line from (203, 207)->(205, 210)
+baby has probability of 0.78%
+49
+[(94, 175), (205, 210)]
+Line from (205, 210)->(209, 219)
+baby has probability of 0.74%
+50
+[(94, 175), (209, 219)]
+Line from (209, 219)->(222, 216)
+baby has probability of 0.76%
+51
+[(94, 175), (222, 216)]
+Line from (222, 216)->(236, 218)
+baby has probability of 0.78%
+52
+[(94, 175), (236, 218)]
+Line from (236, 218)->(249, 221)
+baby has probability of 0.81%
+53
+[(94, 175), (249, 221)]
+Line from (94, 175)->(116, 172)
+baby has probability of 0.79%
+54
+[(249, 221), (116, 172)]
+Line from (116, 172)->(122, 184)
+baby has probability of 0.80%
+55
+[(249, 221), (122, 184)]
+Line from (122, 184)->(133, 190)
+baby has probability of 0.79%
+56
+[(249, 221), (133, 190)]
+Line from (133, 190)->(147, 192)
+baby has probability of 0.82%
+57
+[(249, 221), (147, 192)]
+Line from (147, 192)->(164, 196)
+baby has probability of 0.86%
+58
+[(249, 221), (164, 196)]
+Line from (164, 196)->(155, 210)
+baby has probability of 0.84%
+59
+[(249, 221), (155, 210)]
+Line from (155, 210)->(161, 226)
+baby has probability of 0.79%
+60
+[(249, 221), (161, 226)]
+Line from (161, 226)->(175, 207)
+baby has probability of 0.77%
+61
+[(249, 221), (175, 207)]
+Line from (175, 207)->(155, 210)
+baby has probability of 0.78%
+62
+[(249, 221), (155, 210)]
+Line from (155, 210)->(131, 215)
+baby has probability of 0.81%
+63
+[(249, 221), (131, 215)]
+Line from (131, 215)->(129, 219)
+baby has probability of 0.81%
+64
+[(249, 221), (129, 219)]
+Line from (129, 219)->(142, 207)
+baby has probability of 0.80%
+65
+[(249, 221), (142, 207)]
+Line from (142, 207)->(131, 215)
+baby has probability of 0.79%
+66
+[(249, 221), (131, 215)]
+Line from (131, 215)->(128, 202)
+baby has probability of 0.78%
+67
+[(249, 221), (128, 202)]
+Line from (128, 202)->(122, 184)
+baby has probability of 0.82%
+68
+[(249, 221), (122, 184)]
+Line from (122, 184)->(138, 179)
+baby has probability of 0.75%
+69
+[(249, 221), (138, 179)]
+Line from (138, 179)->(158, 171)
+baby has probability of 0.78%
+70
+[(249, 221), (158, 171)]
+Line from (158, 171)->(165, 183)
+baby has probability of 0.73%
+71
+[(249, 221), (165, 183)]
+Line from (165, 183)->(174, 194)
+baby has probability of 0.75%
+72
+[(249, 221), (174, 194)]
+Line from (174, 194)->(181, 182)
+baby has probability of 0.74%
+73
+[(249, 221), (181, 182)]
+Line from (181, 182)->(190, 173)
+baby has probability of 0.73%
+74
+[(249, 221), (190, 173)]
+Line from (190, 173)->(197, 162)
+baby has probability of 0.70%
+75
+[(249, 221), (197, 162)]
+Line from (197, 162)->(197, 148)
+baby has probability of 0.73%
+76
+[(249, 221), (197, 148)]
+Line from (197, 148)->(196, 141)
+baby has probability of 0.77%
+77
+[(249, 221), (196, 141)]
+Line from (196, 141)->(198, 135)
+baby has probability of 0.75%
+78
+[(249, 221), (198, 135)]
+Line from (198, 135)->(197, 148)
+baby has probability of 0.75%
+79
+[(249, 221), (197, 148)]
+Line from (197, 148)->(194, 122)
+baby has probability of 0.74%
+80
+[(249, 221), (194, 122)]
+Line from (194, 122)->(186, 110)
+baby has probability of 0.82%
+81
+[(249, 221), (186, 110)]
+Line from (186, 110)->(175, 96)
+baby has probability of 0.87%
+82
+[(249, 221), (175, 96)]
+Line from (175, 96)->(182, 85)
+baby has probability of 0.83%
+83
+[(249, 221), (182, 85)]
+Line from (182, 85)->(195, 89)
+baby has probability of 0.82%
+84
+[(249, 221), (195, 89)]
+Line from (195, 89)->(207, 93)
+baby has probability of 0.82%
+85
+[(249, 221), (207, 93)]
+Line from (207, 93)->(216, 98)
+baby has probability of 0.86%
+86
+[(249, 221), (216, 98)]
+Line from (216, 98)->(220, 94)
+baby has probability of 0.86%
+87
+[(249, 221), (220, 94)]
+Line from (220, 94)->(207, 93)
+baby has probability of 0.84%
+88
+[(249, 221), (207, 93)]
+Line from (207, 93)->(203, 112)
+baby has probability of 0.73%
+89
+[(249, 221), (203, 112)]
+Line from (203, 112)->(215, 116)
+baby has probability of 0.73%
+90
+[(249, 221), (215, 116)]
+Line from (215, 116)->(228, 118)
+baby has probability of 0.75%
+91
+[(249, 221), (228, 118)]
+Line from (228, 118)->(227, 109)
+baby has probability of 0.75%
+92
+[(249, 221), (227, 109)]
+Line from (227, 109)->(215, 116)
+baby has probability of 0.72%
+93
+[(249, 221), (215, 116)]
+Line from (215, 116)->(217, 130)
+baby has probability of 0.72%
+94
+[(249, 221), (217, 130)]
+Line from (217, 130)->(228, 118)
+baby has probability of 0.70%
+95
+[(249, 221), (228, 118)]
+Line from (228, 118)->(240, 123)
+baby has probability of 0.64%
+96
+[(249, 221), (240, 123)]
+Line from (240, 123)->(253, 125)
+baby has probability of 0.64%
+97
+[(249, 221), (253, 125)]
+Line from (253, 125)->(254, 112)
+baby has probability of 0.63%
+98
+[(249, 221), (254, 112)]
+Line from (254, 112)->(249, 108)
+baby has probability of 0.62%
+99
+[(249, 221), (249, 108)]
+Line from (249, 108)->(245, 102)
+baby has probability of 0.61%
+100
+[(249, 221), (245, 102)]
+Line from (245, 102)->(254, 112)
+baby has probability of 0.60%
+101
+[(249, 221), (254, 112)]
+Line from (254, 112)->(240, 123)
+baby has probability of 0.57%
+102
+[(249, 221), (240, 123)]
+Line from (240, 123)->(249, 108)
+baby has probability of 0.59%
+103
+[(249, 221), (249, 108)]
+Line from (249, 108)->(253, 125)
+baby has probability of 0.58%
+104
+[(249, 221), (253, 125)]
+Line from (253, 125)->(245, 102)
+baby has probability of 0.57%
+105
+[(249, 221), (245, 102)]
+Line from (245, 102)->(234, 95)
+baby has probability of 0.53%
+106
+[(249, 221), (234, 95)]
+Line from (234, 95)->(220, 94)
+baby has probability of 0.53%
+107
+[(249, 221), (220, 94)]
+Line from (220, 94)->(227, 109)
+baby has probability of 0.47%
+108
+[(249, 221), (227, 109)]
+Line from (227, 109)->(234, 95)
+baby has probability of 0.48%
+109
+[(249, 221), (234, 95)]
+Line from (234, 95)->(216, 98)
+baby has probability of 0.49%
+110
+[(249, 221), (216, 98)]
+Line from (216, 98)->(227, 109)
+baby has probability of 0.47%
+111
+[(249, 221), (227, 109)]
+Line from (227, 109)->(245, 102)
+baby has probability of 0.46%
+112
+[(249, 221), (245, 102)]
+Line from (245, 102)->(228, 118)
+baby has probability of 0.49%
+113
+[(249, 221), (228, 118)]
+Line from (228, 118)->(216, 98)
+baby has probability of 0.49%
+114
+[(249, 221), (216, 98)]
+Line from (216, 98)->(203, 112)
+baby has probability of 0.49%
+115
+[(249, 221), (203, 112)]
+Line from (203, 112)->(194, 122)
+baby has probability of 0.47%
+116
+[(249, 221), (194, 122)]
+Line from (194, 122)->(198, 135)
+baby has probability of 0.49%
+117
+[(249, 221), (198, 135)]
+Line from (198, 135)->(217, 130)
+baby has probability of 0.43%
+118
+[(249, 221), (217, 130)]
+Line from (217, 130)->(194, 122)
+baby has probability of 0.44%
+119
+[(249, 221), (194, 122)]
+Line from (194, 122)->(196, 141)
+baby has probability of 0.44%
+120
+[(249, 221), (196, 141)]
+Line from (196, 141)->(197, 162)
+baby has probability of 0.46%
+121
+[(249, 221), (197, 162)]
+Line from (197, 162)->(207, 170)
+baby has probability of 0.45%
+122
+[(249, 221), (207, 170)]
+Line from (207, 170)->(219, 176)
+baby has probability of 0.44%
+123
+[(249, 221), (219, 176)]
+Line from (219, 176)->(228, 186)
+baby has probability of 0.41%
+124
+[(249, 221), (228, 186)]
+Line from (228, 186)->(229, 199)
+baby has probability of 0.42%
+125
+[(249, 221), (229, 199)]
+Line from (229, 199)->(216, 204)
+baby has probability of 0.42%
+126
+[(249, 221), (216, 204)]
+Line from (216, 204)->(205, 210)
+baby has probability of 0.43%
+127
+[(249, 221), (205, 210)]
+Line from (205, 210)->(188, 208)
+baby has probability of 0.43%
+128
+[(249, 221), (188, 208)]
+Line from (188, 208)->(174, 194)
+baby has probability of 0.44%
+129
+[(249, 221), (174, 194)]
+Line from (174, 194)->(159, 197)
+baby has probability of 0.44%
+130
+[(249, 221), (159, 197)]
+Line from (159, 197)->(175, 207)
+baby has probability of 0.44%
+131
+[(249, 221), (175, 207)]
+Line from (175, 207)->(165, 183)
+baby has probability of 0.45%
+132
+[(249, 221), (165, 183)]
+Line from (165, 183)->(181, 182)
+baby has probability of 0.46%
+133
+[(249, 221), (181, 182)]
+Line from (181, 182)->(194, 187)
+baby has probability of 0.45%
+134
+[(249, 221), (194, 187)]
+Line from (194, 187)->(190, 173)
+baby has probability of 0.43%
+135
+[(249, 221), (190, 173)]
+Line from (190, 173)->(207, 170)
+baby has probability of 0.42%
+136
+[(249, 221), (207, 170)]
+Line from (207, 170)->(194, 187)
+baby has probability of 0.41%
+137
+[(249, 221), (194, 187)]
+Line from (194, 187)->(174, 194)
+baby has probability of 0.39%
+138
+[(249, 221), (174, 194)]
+Line from (174, 194)->(167, 218)
+baby has probability of 0.38%
+139
+[(249, 221), (167, 218)]
+Line from (167, 218)->(188, 208)
+baby has probability of 0.39%
+140
+[(249, 221), (188, 208)]
+Line from (188, 208)->(209, 219)
+baby has probability of 0.39%
+141
+[(249, 221), (209, 219)]
+Line from (209, 219)->(203, 207)
+baby has probability of 0.39%
+142
+[(249, 221), (203, 207)]
+Line from (203, 207)->(216, 204)
+baby has probability of 0.39%
+143
+[(249, 221), (216, 204)]
+Line from (216, 204)->(222, 216)
+baby has probability of 0.38%
+144
+[(249, 221), (222, 216)]
+Line from (222, 216)->(205, 210)
+baby has probability of 0.40%
+145
+[(249, 221), (205, 210)]
+Line from (205, 210)->(229, 199)
+baby has probability of 0.40%
+146
+[(249, 221), (229, 199)]
+Line from (229, 199)->(222, 216)
+baby has probability of 0.39%
+147
+[(249, 221), (222, 216)]
+Line from (222, 216)->(203, 207)
+baby has probability of 0.39%
+148
+[(249, 221), (203, 207)]
+Line from (203, 207)->(194, 187)
+baby has probability of 0.37%
+149
+[(249, 221), (194, 187)]
+Line from (194, 187)->(188, 208)
+baby has probability of 0.38%
+150
+[(249, 221), (188, 208)]
+Line from (188, 208)->(164, 196)
+baby has probability of 0.39%
+151
+[(249, 221), (164, 196)]

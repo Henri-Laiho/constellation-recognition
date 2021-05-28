@@ -1,0 +1,15 @@
+Check that object label is in categories:
+True
+Initial guess:
+cat has probability of 0.85%
+1
+[(143, 125)]
+Line from (143, 125)->(152, 96)
+cat has probability of 1.63%
+2
+[(143, 125), (152, 96)]
+Line from (152, 96)->(157, 108)
+cat has probability of 3.21%
+3
+[(143, 125), (157, 108)]
+Couldn't find better connection, stopping!

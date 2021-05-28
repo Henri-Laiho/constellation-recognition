@@ -1,0 +1,99 @@
+Check that object label is in categories:
+True
+Initial guess:
+giraffe has probability of 2.05%
+1
+[(128, 147)]
+Line from (128, 147)->(120, 144)
+giraffe has probability of 2.08%
+2
+[(128, 147), (120, 144)]
+Line from (120, 144)->(120, 135)
+giraffe has probability of 2.20%
+3
+[(128, 147), (120, 135)]
+Line from (120, 135)->(129, 124)
+giraffe has probability of 3.66%
+4
+[(128, 147), (129, 124)]
+Line from (128, 147)->(116, 157)
+giraffe has probability of 3.62%
+5
+[(129, 124), (116, 157)]
+Line from (116, 157)->(123, 170)
+giraffe has probability of 3.34%
+6
+[(129, 124), (123, 170)]
+Line from (123, 170)->(120, 144)
+giraffe has probability of 5.33%
+7
+[(129, 124), (120, 144)]
+Line from (120, 144)->(114, 182)
+giraffe has probability of 11.15%
+8
+[(129, 124), (114, 182)]
+Line from (114, 182)->(109, 174)
+giraffe has probability of 11.34%
+9
+[(129, 124), (109, 174)]
+Line from (109, 174)->(107, 169)
+giraffe has probability of 11.13%
+10
+[(129, 124), (107, 169)]
+Line from (107, 169)->(123, 170)
+giraffe has probability of 12.38%
+11
+[(129, 124), (123, 170)]
+Line from (123, 170)->(136, 176)
+giraffe has probability of 16.65%
+12
+[(129, 124), (136, 176)]
+Line from (136, 176)->(138, 186)
+giraffe has probability of 18.30%
+13
+[(129, 124), (138, 186)]
+Line from (138, 186)->(151, 184)
+giraffe has probability of 17.91%
+14
+[(129, 124), (151, 184)]
+Line from (151, 184)->(154, 189)
+giraffe has probability of 17.35%
+15
+[(129, 124), (154, 189)]
+Line from (154, 189)->(138, 186)
+giraffe has probability of 17.74%
+16
+[(129, 124), (138, 186)]
+Line from (138, 186)->(168, 191)
+giraffe has probability of 19.17%
+17
+[(129, 124), (168, 191)]
+Line from (168, 191)->(154, 189)
+giraffe has probability of 19.12%
+18
+[(129, 124), (154, 189)]
+Line from (154, 189)->(136, 176)
+giraffe has probability of 18.58%
+19
+[(129, 124), (136, 176)]
+Line from (136, 176)->(151, 184)
+giraffe has probability of 19.04%
+20
+[(129, 124), (151, 184)]
+Line from (151, 184)->(140, 195)
+giraffe has probability of 20.96%
+21
+[(129, 124), (140, 195)]
+Line from (140, 195)->(136, 209)
+giraffe has probability of 24.66%
+22
+[(129, 124), (136, 209)]
+Line from (136, 209)->(125, 220)
+giraffe has probability of 28.83%
+23
+[(129, 124), (125, 220)]
+Line from (125, 220)->(141, 223)
+giraffe has probability of 28.00%
+24
+[(129, 124), (141, 223)]
+Couldn't find better connection, stopping!

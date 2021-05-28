@@ -1,0 +1,327 @@
+Check that object label is in categories:
+True
+Initial guess:
+elephant has probability of 0.25%
+1
+[(118, 119)]
+Line from (118, 119)->(102, 118)
+elephant has probability of 0.26%
+2
+[(118, 119), (102, 118)]
+Line from (102, 118)->(104, 103)
+elephant has probability of 0.25%
+3
+[(118, 119), (104, 103)]
+Line from (104, 103)->(124, 105)
+elephant has probability of 0.32%
+4
+[(118, 119), (124, 105)]
+Line from (124, 105)->(138, 107)
+elephant has probability of 0.33%
+5
+[(118, 119), (138, 107)]
+Line from (138, 107)->(145, 125)
+elephant has probability of 0.39%
+6
+[(118, 119), (145, 125)]
+Line from (118, 119)->(124, 105)
+elephant has probability of 0.72%
+7
+[(145, 125), (124, 105)]
+Line from (145, 125)->(134, 130)
+elephant has probability of 0.74%
+8
+[(124, 105), (134, 130)]
+Line from (134, 130)->(135, 137)
+elephant has probability of 0.59%
+9
+[(124, 105), (135, 137)]
+Line from (124, 105)->(135, 122)
+elephant has probability of 0.71%
+10
+[(135, 137), (135, 122)]
+Line from (135, 122)->(134, 130)
+elephant has probability of 0.70%
+11
+[(135, 137), (134, 130)]
+Line from (135, 137)->(145, 125)
+elephant has probability of 0.69%
+12
+[(134, 130), (145, 125)]
+Line from (145, 125)->(135, 122)
+elephant has probability of 0.75%
+13
+[(134, 130), (135, 122)]
+Line from (135, 122)->(138, 107)
+elephant has probability of 1.00%
+14
+[(134, 130), (138, 107)]
+Line from (138, 107)->(118, 119)
+elephant has probability of 1.20%
+15
+[(134, 130), (118, 119)]
+Line from (134, 130)->(138, 107)
+elephant has probability of 1.13%
+16
+[(118, 119), (138, 107)]
+Line from (138, 107)->(104, 103)
+elephant has probability of 1.28%
+17
+[(118, 119), (104, 103)]
+Line from (104, 103)->(88, 112)
+elephant has probability of 1.84%
+18
+[(118, 119), (88, 112)]
+Line from (88, 112)->(75, 118)
+elephant has probability of 1.65%
+19
+[(118, 119), (75, 118)]
+Line from (75, 118)->(85, 129)
+elephant has probability of 1.48%
+20
+[(118, 119), (85, 129)]
+Line from (85, 129)->(72, 137)
+elephant has probability of 1.75%
+21
+[(118, 119), (72, 137)]
+Line from (72, 137)->(60, 128)
+elephant has probability of 1.57%
+22
+[(118, 119), (60, 128)]
+Line from (60, 128)->(75, 118)
+elephant has probability of 1.67%
+23
+[(118, 119), (75, 118)]
+Line from (75, 118)->(90, 98)
+elephant has probability of 1.66%
+24
+[(118, 119), (90, 98)]
+Line from (90, 98)->(76, 102)
+elephant has probability of 1.59%
+25
+[(118, 119), (76, 102)]
+Line from (76, 102)->(88, 112)
+elephant has probability of 1.66%
+26
+[(118, 119), (88, 112)]
+Line from (88, 112)->(85, 129)
+elephant has probability of 1.71%
+27
+[(118, 119), (85, 129)]
+Line from (118, 119)->(105, 132)
+elephant has probability of 1.33%
+28
+[(85, 129), (105, 132)]
+Line from (105, 132)->(109, 137)
+elephant has probability of 1.35%
+29
+[(85, 129), (109, 137)]
+Line from (109, 137)->(109, 147)
+elephant has probability of 1.32%
+30
+[(85, 129), (109, 147)]
+Line from (85, 129)->(104, 103)
+elephant has probability of 2.02%
+31
+[(109, 147), (104, 103)]
+Line from (109, 147)->(105, 132)
+elephant has probability of 2.24%
+32
+[(104, 103), (105, 132)]
+Line from (105, 132)->(134, 130)
+elephant has probability of 2.68%
+33
+[(104, 103), (134, 130)]
+Line from (104, 103)->(118, 119)
+elephant has probability of 2.83%
+34
+[(134, 130), (118, 119)]
+Line from (134, 130)->(138, 152)
+elephant has probability of 5.01%
+35
+[(118, 119), (138, 152)]
+Line from (138, 152)->(135, 137)
+elephant has probability of 4.49%
+36
+[(118, 119), (135, 137)]
+Line from (135, 137)->(135, 122)
+elephant has probability of 3.88%
+37
+[(118, 119), (135, 122)]
+Line from (118, 119)->(114, 85)
+elephant has probability of 3.56%
+38
+[(135, 122), (114, 85)]
+Line from (114, 85)->(114, 70)
+elephant has probability of 2.76%
+39
+[(135, 122), (114, 70)]
+Line from (114, 70)->(114, 66)
+elephant has probability of 2.83%
+40
+[(135, 122), (114, 66)]
+Line from (114, 66)->(119, 56)
+elephant has probability of 2.52%
+41
+[(135, 122), (119, 56)]
+Line from (119, 56)->(114, 70)
+elephant has probability of 2.20%
+42
+[(135, 122), (114, 70)]
+Line from (114, 70)->(93, 71)
+elephant has probability of 1.64%
+43
+[(135, 122), (93, 71)]
+Line from (93, 71)->(84, 84)
+elephant has probability of 1.36%
+44
+[(135, 122), (84, 84)]
+Line from (84, 84)->(69, 89)
+elephant has probability of 1.10%
+45
+[(135, 122), (69, 89)]
+Line from (69, 89)->(62, 99)
+elephant has probability of 1.22%
+46
+[(135, 122), (62, 99)]
+Line from (62, 99)->(76, 102)
+elephant has probability of 1.10%
+47
+[(135, 122), (76, 102)]
+Line from (76, 102)->(75, 118)
+elephant has probability of 1.31%
+48
+[(135, 122), (75, 118)]
+Line from (75, 118)->(72, 137)
+elephant has probability of 1.32%
+49
+[(135, 122), (72, 137)]
+Line from (72, 137)->(104, 103)
+elephant has probability of 1.85%
+50
+[(135, 122), (104, 103)]
+Line from (135, 122)->(131, 154)
+elephant has probability of 2.30%
+51
+[(104, 103), (131, 154)]
+Line from (131, 154)->(138, 152)
+elephant has probability of 1.91%
+52
+[(104, 103), (138, 152)]
+Line from (138, 152)->(146, 146)
+elephant has probability of 1.64%
+53
+[(104, 103), (146, 146)]
+Line from (146, 146)->(135, 137)
+elephant has probability of 1.70%
+54
+[(104, 103), (135, 137)]
+Line from (135, 137)->(157, 110)
+elephant has probability of 2.31%
+55
+[(104, 103), (157, 110)]
+Line from (157, 110)->(149, 97)
+elephant has probability of 2.61%
+56
+[(104, 103), (149, 97)]
+Line from (149, 97)->(144, 83)
+elephant has probability of 2.54%
+57
+[(104, 103), (144, 83)]
+Line from (144, 83)->(151, 70)
+elephant has probability of 2.31%
+58
+[(104, 103), (151, 70)]
+Line from (151, 70)->(177, 62)
+elephant has probability of 2.68%
+59
+[(104, 103), (177, 62)]
+Line from (177, 62)->(174, 54)
+elephant has probability of 2.11%
+60
+[(104, 103), (174, 54)]
+Line from (174, 54)->(194, 58)
+elephant has probability of 2.74%
+61
+[(104, 103), (194, 58)]
+Line from (194, 58)->(206, 68)
+elephant has probability of 4.33%
+62
+[(104, 103), (206, 68)]
+Line from (206, 68)->(205, 78)
+elephant has probability of 3.95%
+63
+[(104, 103), (205, 78)]
+Line from (205, 78)->(206, 83)
+elephant has probability of 3.69%
+64
+[(104, 103), (206, 83)]
+Line from (206, 83)->(202, 98)
+elephant has probability of 5.33%
+65
+[(104, 103), (202, 98)]
+Line from (202, 98)->(187, 94)
+elephant has probability of 8.45%
+66
+[(104, 103), (187, 94)]
+Line from (187, 94)->(175, 109)
+elephant has probability of 11.44%
+67
+[(104, 103), (175, 109)]
+Line from (175, 109)->(166, 98)
+elephant has probability of 12.04%
+68
+[(104, 103), (166, 98)]
+Line from (166, 98)->(157, 110)
+elephant has probability of 13.17%
+69
+[(104, 103), (157, 110)]
+Line from (157, 110)->(145, 125)
+elephant has probability of 14.00%
+70
+[(104, 103), (145, 125)]
+Line from (145, 125)->(166, 98)
+elephant has probability of 14.27%
+71
+[(104, 103), (166, 98)]
+Line from (166, 98)->(149, 97)
+elephant has probability of 15.10%
+72
+[(104, 103), (149, 97)]
+Line from (149, 97)->(151, 70)
+elephant has probability of 18.65%
+73
+[(104, 103), (151, 70)]
+Line from (151, 70)->(174, 54)
+elephant has probability of 27.10%
+74
+[(104, 103), (174, 54)]
+Line from (174, 54)->(200, 55)
+elephant has probability of 27.10%
+75
+[(104, 103), (200, 55)]
+Line from (200, 55)->(194, 58)
+elephant has probability of 26.86%
+76
+[(104, 103), (194, 58)]
+Line from (194, 58)->(180, 44)
+elephant has probability of 32.91%
+77
+[(104, 103), (180, 44)]
+Line from (180, 44)->(136, 48)
+elephant has probability of 32.42%
+78
+[(104, 103), (136, 48)]
+Line from (136, 48)->(114, 66)
+elephant has probability of 54.05%
+79
+[(104, 103), (114, 66)]
+Line from (114, 66)->(127, 78)
+elephant has probability of 55.27%
+80
+[(104, 103), (127, 78)]
+Line from (127, 78)->(102, 118)
+elephant has probability of 73.68%
+81
+[(104, 103), (102, 118)]
+Couldn't find better connection, stopping!

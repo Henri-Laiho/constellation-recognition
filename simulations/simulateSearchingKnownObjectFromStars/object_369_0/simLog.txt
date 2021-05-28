@@ -1,0 +1,606 @@
+Check that object label is in categories:
+True
+Initial guess:
+pistol has probability of 0.66%
+1
+[(139, 134)]
+Line from (139, 134)->(99, 113)
+pistol has probability of 1.44%
+2
+[(139, 134), (99, 113)]
+Line from (99, 113)->(106, 114)
+pistol has probability of 1.43%
+3
+[(139, 134), (106, 114)]
+Line from (139, 134)->(139, 122)
+pistol has probability of 1.53%
+4
+[(106, 114), (139, 122)]
+Line from (139, 122)->(138, 114)
+pistol has probability of 1.56%
+5
+[(106, 114), (138, 114)]
+Line from (138, 114)->(146, 106)
+pistol has probability of 1.43%
+6
+[(106, 114), (146, 106)]
+Line from (106, 114)->(116, 102)
+pistol has probability of 1.49%
+7
+[(146, 106), (116, 102)]
+Line from (146, 106)->(161, 106)
+pistol has probability of 1.51%
+8
+[(116, 102), (161, 106)]
+Line from (161, 106)->(160, 115)
+pistol has probability of 1.57%
+9
+[(116, 102), (160, 115)]
+Line from (160, 115)->(138, 114)
+pistol has probability of 2.26%
+10
+[(116, 102), (138, 114)]
+Line from (138, 114)->(146, 123)
+pistol has probability of 2.04%
+11
+[(116, 102), (146, 123)]
+Line from (146, 123)->(139, 122)
+pistol has probability of 2.22%
+12
+[(116, 102), (139, 122)]
+Line from (116, 102)->(110, 89)
+pistol has probability of 2.02%
+13
+[(139, 122), (110, 89)]
+Line from (110, 89)->(100, 78)
+pistol has probability of 2.08%
+14
+[(139, 122), (100, 78)]
+Line from (100, 78)->(109, 70)
+pistol has probability of 2.01%
+15
+[(139, 122), (109, 70)]
+Line from (109, 70)->(110, 66)
+pistol has probability of 1.99%
+16
+[(139, 122), (110, 66)]
+Line from (110, 66)->(121, 76)
+pistol has probability of 2.08%
+17
+[(139, 122), (121, 76)]
+Line from (121, 76)->(128, 75)
+pistol has probability of 2.01%
+18
+[(139, 122), (128, 75)]
+Line from (128, 75)->(135, 84)
+pistol has probability of 1.89%
+19
+[(139, 122), (135, 84)]
+Line from (135, 84)->(121, 76)
+pistol has probability of 1.88%
+20
+[(139, 122), (121, 76)]
+Line from (121, 76)->(109, 70)
+pistol has probability of 1.84%
+21
+[(139, 122), (109, 70)]
+Line from (109, 70)->(96, 64)
+pistol has probability of 1.80%
+22
+[(139, 122), (96, 64)]
+Line from (96, 64)->(82, 58)
+pistol has probability of 1.84%
+23
+[(139, 122), (82, 58)]
+Line from (82, 58)->(83, 73)
+pistol has probability of 1.76%
+24
+[(139, 122), (83, 73)]
+Line from (83, 73)->(72, 82)
+pistol has probability of 1.90%
+25
+[(139, 122), (72, 82)]
+Line from (72, 82)->(67, 83)
+pistol has probability of 1.91%
+26
+[(139, 122), (67, 83)]
+Line from (67, 83)->(53, 80)
+pistol has probability of 1.85%
+27
+[(139, 122), (53, 80)]
+Line from (53, 80)->(38, 81)
+pistol has probability of 1.82%
+28
+[(139, 122), (38, 81)]
+Line from (139, 122)->(122, 116)
+pistol has probability of 1.79%
+29
+[(38, 81), (122, 116)]
+Line from (122, 116)->(109, 124)
+pistol has probability of 1.77%
+30
+[(38, 81), (109, 124)]
+Line from (109, 124)->(106, 114)
+pistol has probability of 1.74%
+31
+[(38, 81), (106, 114)]
+Line from (106, 114)->(87, 123)
+pistol has probability of 1.91%
+32
+[(38, 81), (87, 123)]
+Line from (87, 123)->(82, 109)
+pistol has probability of 1.74%
+33
+[(38, 81), (82, 109)]
+Line from (82, 109)->(83, 105)
+pistol has probability of 1.73%
+34
+[(38, 81), (83, 105)]
+Line from (83, 105)->(70, 98)
+pistol has probability of 1.83%
+35
+[(38, 81), (70, 98)]
+Line from (70, 98)->(67, 83)
+pistol has probability of 1.89%
+36
+[(38, 81), (67, 83)]
+Line from (38, 81)->(44, 67)
+pistol has probability of 1.85%
+37
+[(67, 83), (44, 67)]
+Line from (44, 67)->(40, 53)
+pistol has probability of 1.93%
+38
+[(67, 83), (40, 53)]
+Line from (40, 53)->(50, 42)
+pistol has probability of 2.22%
+39
+[(67, 83), (50, 42)]
+Line from (50, 42)->(64, 42)
+pistol has probability of 2.23%
+40
+[(67, 83), (64, 42)]
+Line from (64, 42)->(79, 43)
+pistol has probability of 2.38%
+41
+[(67, 83), (79, 43)]
+Line from (79, 43)->(93, 47)
+pistol has probability of 2.39%
+42
+[(67, 83), (93, 47)]
+Line from (93, 47)->(110, 66)
+pistol has probability of 2.93%
+43
+[(67, 83), (110, 66)]
+Line from (110, 66)->(100, 78)
+pistol has probability of 3.06%
+44
+[(67, 83), (100, 78)]
+Line from (100, 78)->(96, 64)
+pistol has probability of 3.06%
+45
+[(67, 83), (96, 64)]
+Line from (96, 64)->(110, 66)
+pistol has probability of 2.76%
+46
+[(67, 83), (110, 66)]
+Line from (110, 66)->(108, 49)
+pistol has probability of 2.95%
+47
+[(67, 83), (108, 49)]
+Line from (67, 83)->(65, 66)
+pistol has probability of 2.77%
+48
+[(108, 49), (65, 66)]
+Line from (65, 66)->(54, 57)
+pistol has probability of 2.56%
+49
+[(108, 49), (54, 57)]
+Line from (54, 57)->(50, 42)
+pistol has probability of 2.40%
+50
+[(108, 49), (50, 42)]
+Line from (108, 49)->(93, 47)
+pistol has probability of 2.02%
+51
+[(50, 42), (93, 47)]
+Line from (93, 47)->(82, 58)
+pistol has probability of 1.68%
+52
+[(50, 42), (82, 58)]
+Line from (82, 58)->(79, 43)
+pistol has probability of 1.54%
+53
+[(50, 42), (79, 43)]
+Line from (50, 42)->(55, 24)
+pistol has probability of 1.36%
+54
+[(79, 43), (55, 24)]
+Line from (55, 24)->(103, 4)
+pistol has probability of 1.98%
+55
+[(79, 43), (103, 4)]
+Line from (103, 4)->(89, 8)
+pistol has probability of 1.93%
+56
+[(79, 43), (89, 8)]
+Line from (79, 43)->(108, 49)
+pistol has probability of 1.91%
+57
+[(89, 8), (108, 49)]
+Line from (108, 49)->(122, 53)
+pistol has probability of 1.67%
+58
+[(89, 8), (122, 53)]
+Line from (122, 53)->(127, 47)
+pistol has probability of 1.62%
+59
+[(89, 8), (127, 47)]
+Line from (127, 47)->(136, 55)
+pistol has probability of 1.61%
+60
+[(89, 8), (136, 55)]
+Line from (136, 55)->(138, 70)
+pistol has probability of 1.85%
+61
+[(89, 8), (138, 70)]
+Line from (138, 70)->(128, 75)
+pistol has probability of 1.79%
+62
+[(89, 8), (128, 75)]
+Line from (128, 75)->(136, 55)
+pistol has probability of 2.01%
+63
+[(89, 8), (136, 55)]
+Line from (136, 55)->(151, 56)
+pistol has probability of 2.00%
+64
+[(89, 8), (151, 56)]
+Line from (151, 56)->(165, 57)
+pistol has probability of 1.99%
+65
+[(89, 8), (165, 57)]
+Line from (165, 57)->(180, 58)
+pistol has probability of 2.02%
+66
+[(89, 8), (180, 58)]
+Line from (180, 58)->(194, 62)
+pistol has probability of 2.11%
+67
+[(89, 8), (194, 62)]
+Line from (194, 62)->(202, 75)
+pistol has probability of 2.29%
+68
+[(89, 8), (202, 75)]
+Line from (202, 75)->(202, 80)
+pistol has probability of 2.28%
+69
+[(89, 8), (202, 80)]
+Line from (202, 80)->(208, 90)
+pistol has probability of 2.23%
+70
+[(89, 8), (208, 90)]
+Line from (208, 90)->(202, 75)
+pistol has probability of 2.26%
+71
+[(89, 8), (202, 75)]
+Line from (202, 75)->(215, 63)
+pistol has probability of 2.24%
+72
+[(89, 8), (215, 63)]
+Line from (215, 63)->(231, 63)
+pistol has probability of 2.49%
+73
+[(89, 8), (231, 63)]
+Line from (231, 63)->(241, 74)
+pistol has probability of 2.41%
+74
+[(89, 8), (241, 74)]
+Line from (241, 74)->(239, 89)
+pistol has probability of 2.39%
+75
+[(89, 8), (239, 89)]
+Line from (239, 89)->(237, 96)
+pistol has probability of 2.36%
+76
+[(89, 8), (237, 96)]
+Line from (237, 96)->(228, 99)
+pistol has probability of 2.33%
+77
+[(89, 8), (228, 99)]
+Line from (228, 99)->(239, 89)
+pistol has probability of 2.35%
+78
+[(89, 8), (239, 89)]
+Line from (239, 89)->(251, 96)
+pistol has probability of 2.38%
+79
+[(89, 8), (251, 96)]
+Line from (251, 96)->(247, 105)
+pistol has probability of 2.40%
+80
+[(89, 8), (247, 105)]
+Line from (247, 105)->(237, 96)
+pistol has probability of 2.35%
+81
+[(89, 8), (237, 96)]
+Line from (237, 96)->(251, 96)
+pistol has probability of 2.40%
+82
+[(89, 8), (251, 96)]
+Line from (251, 96)->(228, 99)
+pistol has probability of 2.22%
+83
+[(89, 8), (228, 99)]
+Line from (228, 99)->(220, 114)
+pistol has probability of 2.35%
+84
+[(89, 8), (220, 114)]
+Line from (220, 114)->(228, 126)
+pistol has probability of 2.38%
+85
+[(89, 8), (228, 126)]
+Line from (228, 126)->(217, 133)
+pistol has probability of 2.43%
+86
+[(89, 8), (217, 133)]
+Line from (217, 133)->(206, 131)
+pistol has probability of 2.37%
+87
+[(89, 8), (206, 131)]
+Line from (206, 131)->(188, 128)
+pistol has probability of 2.71%
+88
+[(89, 8), (188, 128)]
+Line from (188, 128)->(172, 129)
+pistol has probability of 3.21%
+89
+[(89, 8), (172, 129)]
+Line from (172, 129)->(163, 135)
+pistol has probability of 3.16%
+90
+[(89, 8), (163, 135)]
+Line from (163, 135)->(166, 143)
+pistol has probability of 3.11%
+91
+[(89, 8), (166, 143)]
+Line from (166, 143)->(172, 129)
+pistol has probability of 3.53%
+92
+[(89, 8), (172, 129)]
+Line from (172, 129)->(180, 116)
+pistol has probability of 3.31%
+93
+[(89, 8), (180, 116)]
+Line from (180, 116)->(188, 128)
+pistol has probability of 3.19%
+94
+[(89, 8), (188, 128)]
+Line from (188, 128)->(185, 139)
+pistol has probability of 3.06%
+95
+[(89, 8), (185, 139)]
+Line from (185, 139)->(189, 143)
+pistol has probability of 3.08%
+96
+[(89, 8), (189, 143)]
+Line from (189, 143)->(188, 128)
+pistol has probability of 3.07%
+97
+[(89, 8), (188, 128)]
+Line from (188, 128)->(188, 85)
+pistol has probability of 4.22%
+98
+[(89, 8), (188, 85)]
+Line from (188, 85)->(173, 84)
+pistol has probability of 4.60%
+99
+[(89, 8), (173, 84)]
+Line from (173, 84)->(162, 74)
+pistol has probability of 4.10%
+100
+[(89, 8), (162, 74)]
+Line from (162, 74)->(156, 80)
+pistol has probability of 4.17%
+101
+[(89, 8), (156, 80)]
+Line from (156, 80)->(149, 80)
+pistol has probability of 4.10%
+102
+[(89, 8), (149, 80)]
+Line from (149, 80)->(162, 74)
+pistol has probability of 4.03%
+103
+[(89, 8), (162, 74)]
+Line from (162, 74)->(165, 57)
+pistol has probability of 3.93%
+104
+[(89, 8), (165, 57)]
+Line from (165, 57)->(156, 80)
+pistol has probability of 4.04%
+105
+[(89, 8), (156, 80)]
+Line from (156, 80)->(173, 84)
+pistol has probability of 3.93%
+106
+[(89, 8), (173, 84)]
+Line from (173, 84)->(171, 104)
+pistol has probability of 4.71%
+107
+[(89, 8), (171, 104)]
+Line from (171, 104)->(161, 106)
+pistol has probability of 4.35%
+108
+[(89, 8), (161, 106)]
+Line from (161, 106)->(159, 96)
+pistol has probability of 4.04%
+109
+[(89, 8), (159, 96)]
+Line from (159, 96)->(171, 104)
+pistol has probability of 3.95%
+110
+[(89, 8), (171, 104)]
+Line from (171, 104)->(160, 115)
+pistol has probability of 4.01%
+111
+[(89, 8), (160, 115)]
+Line from (160, 115)->(146, 123)
+pistol has probability of 3.70%
+112
+[(89, 8), (146, 123)]
+Line from (146, 123)->(154, 134)
+pistol has probability of 3.87%
+113
+[(89, 8), (154, 134)]
+Line from (154, 134)->(163, 135)
+pistol has probability of 4.04%
+114
+[(89, 8), (163, 135)]
+Line from (163, 135)->(146, 123)
+pistol has probability of 4.19%
+115
+[(89, 8), (146, 123)]
+Line from (146, 123)->(139, 134)
+pistol has probability of 4.17%
+116
+[(89, 8), (139, 134)]
+Line from (139, 134)->(125, 130)
+pistol has probability of 4.09%
+117
+[(89, 8), (125, 130)]
+Line from (125, 130)->(122, 116)
+pistol has probability of 4.27%
+118
+[(89, 8), (122, 116)]
+Line from (122, 116)->(131, 103)
+pistol has probability of 4.55%
+119
+[(89, 8), (131, 103)]
+Line from (131, 103)->(138, 114)
+pistol has probability of 4.61%
+120
+[(89, 8), (138, 114)]
+Line from (138, 114)->(149, 80)
+pistol has probability of 6.56%
+121
+[(89, 8), (149, 80)]
+Line from (149, 80)->(151, 56)
+pistol has probability of 7.85%
+122
+[(89, 8), (151, 56)]
+Line from (151, 56)->(138, 70)
+pistol has probability of 7.73%
+123
+[(89, 8), (138, 70)]
+Line from (138, 70)->(135, 84)
+pistol has probability of 7.41%
+124
+[(89, 8), (135, 84)]
+Line from (135, 84)->(149, 80)
+pistol has probability of 6.93%
+125
+[(89, 8), (149, 80)]
+Line from (149, 80)->(146, 106)
+pistol has probability of 8.31%
+126
+[(89, 8), (146, 106)]
+Line from (146, 106)->(146, 123)
+pistol has probability of 8.00%
+127
+[(89, 8), (146, 123)]
+Line from (146, 123)->(172, 129)
+pistol has probability of 8.46%
+128
+[(89, 8), (172, 129)]
+Line from (172, 129)->(154, 134)
+pistol has probability of 8.32%
+129
+[(89, 8), (154, 134)]
+Line from (154, 134)->(147, 147)
+pistol has probability of 7.87%
+130
+[(89, 8), (147, 147)]
+Line from (147, 147)->(145, 161)
+pistol has probability of 7.65%
+131
+[(89, 8), (145, 161)]
+Line from (145, 161)->(139, 134)
+pistol has probability of 7.75%
+132
+[(89, 8), (139, 134)]
+Line from (139, 134)->(147, 147)
+pistol has probability of 8.04%
+133
+[(89, 8), (147, 147)]
+Line from (147, 147)->(166, 143)
+pistol has probability of 7.46%
+134
+[(89, 8), (166, 143)]
+Line from (166, 143)->(180, 154)
+pistol has probability of 7.26%
+135
+[(89, 8), (180, 154)]
+Line from (180, 154)->(189, 166)
+pistol has probability of 7.74%
+136
+[(89, 8), (189, 166)]
+Line from (189, 166)->(201, 174)
+pistol has probability of 7.93%
+137
+[(89, 8), (201, 174)]
+Line from (201, 174)->(210, 186)
+pistol has probability of 8.49%
+138
+[(89, 8), (210, 186)]
+Line from (210, 186)->(224, 180)
+pistol has probability of 8.41%
+139
+[(89, 8), (224, 180)]
+Line from (224, 180)->(230, 193)
+pistol has probability of 8.22%
+140
+[(89, 8), (230, 193)]
+Line from (230, 193)->(244, 199)
+pistol has probability of 8.18%
+141
+[(89, 8), (244, 199)]
+Line from (244, 199)->(243, 214)
+pistol has probability of 8.76%
+142
+[(89, 8), (243, 214)]
+Line from (243, 214)->(242, 229)
+pistol has probability of 8.56%
+143
+[(89, 8), (242, 229)]
+Line from (242, 229)->(233, 241)
+pistol has probability of 8.85%
+144
+[(89, 8), (233, 241)]
+Line from (233, 241)->(211, 222)
+pistol has probability of 8.94%
+145
+[(89, 8), (211, 222)]
+Line from (211, 222)->(201, 209)
+pistol has probability of 9.66%
+146
+[(89, 8), (201, 209)]
+Line from (201, 209)->(198, 195)
+pistol has probability of 9.47%
+147
+[(89, 8), (198, 195)]
+Line from (198, 195)->(189, 183)
+pistol has probability of 9.97%
+148
+[(89, 8), (189, 183)]
+Line from (189, 183)->(183, 196)
+pistol has probability of 9.86%
+149
+[(89, 8), (183, 196)]
+Line from (183, 196)->(198, 195)
+pistol has probability of 9.09%
+150
+[(89, 8), (198, 195)]
+Line from (198, 195)->(215, 203)
+pistol has probability of 9.25%
+151
+[(89, 8), (215, 203)]

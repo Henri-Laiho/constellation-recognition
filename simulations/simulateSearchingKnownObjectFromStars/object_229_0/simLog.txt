@@ -1,0 +1,621 @@
+1
+[(105, 131)]
+Line from (105, 131)->(97, 132)
+sunglasses has probability of 0.57%
+2
+[(105, 131), (97, 132)]
+Line from (97, 132)->(92, 130)
+sunglasses has probability of 0.56%
+3
+[(105, 131), (92, 130)]
+Line from (105, 131)->(92, 130)
+sunglasses has probability of 0.68%
+4
+[(92, 130), (92, 130)]
+Line from (92, 130)->(88, 149)
+sunglasses has probability of 1.10%
+5
+[(92, 130), (88, 149)]
+Line from (88, 149)->(91, 162)
+sunglasses has probability of 1.17%
+6
+[(92, 130), (91, 162)]
+Line from (92, 130)->(64, 139)
+sunglasses has probability of 1.40%
+7
+[(91, 162), (64, 139)]
+Line from (64, 139)->(77, 141)
+sunglasses has probability of 1.36%
+8
+[(91, 162), (77, 141)]
+Line from (77, 141)->(73, 153)
+sunglasses has probability of 1.47%
+9
+[(91, 162), (73, 153)]
+Line from (73, 153)->(60, 159)
+sunglasses has probability of 1.57%
+10
+[(91, 162), (60, 159)]
+Line from (60, 159)->(78, 165)
+sunglasses has probability of 1.24%
+11
+[(91, 162), (78, 165)]
+Line from (91, 162)->(97, 132)
+sunglasses has probability of 1.42%
+12
+[(78, 165), (97, 132)]
+Line from (78, 165)->(73, 153)
+sunglasses has probability of 1.17%
+13
+[(97, 132), (73, 153)]
+Line from (97, 132)->(79, 128)
+sunglasses has probability of 1.27%
+14
+[(73, 153), (79, 128)]
+Line from (79, 128)->(92, 130)
+sunglasses has probability of 1.33%
+15
+[(73, 153), (92, 130)]
+Line from (73, 153)->(64, 139)
+sunglasses has probability of 1.06%
+16
+[(92, 130), (64, 139)]
+Line from (64, 139)->(60, 159)
+sunglasses has probability of 1.22%
+17
+[(92, 130), (60, 159)]
+Line from (60, 159)->(49, 165)
+sunglasses has probability of 0.95%
+18
+[(92, 130), (49, 165)]
+Line from (49, 165)->(54, 147)
+sunglasses has probability of 0.89%
+19
+[(92, 130), (54, 147)]
+Line from (54, 147)->(64, 139)
+sunglasses has probability of 0.99%
+20
+[(92, 130), (64, 139)]
+Line from (64, 139)->(78, 165)
+sunglasses has probability of 0.87%
+21
+[(92, 130), (78, 165)]
+Line from (78, 165)->(88, 174)
+sunglasses has probability of 0.52%
+22
+[(92, 130), (88, 174)]
+Line from (88, 174)->(97, 184)
+sunglasses has probability of 0.43%
+23
+[(92, 130), (97, 184)]
+Line from (97, 184)->(108, 190)
+sunglasses has probability of 0.32%
+24
+[(92, 130), (108, 190)]
+Line from (108, 190)->(122, 193)
+sunglasses has probability of 0.31%
+25
+[(92, 130), (122, 193)]
+Line from (122, 193)->(135, 195)
+sunglasses has probability of 0.30%
+26
+[(92, 130), (135, 195)]
+Line from (92, 130)->(118, 133)
+sunglasses has probability of 0.35%
+27
+[(135, 195), (118, 133)]
+Line from (118, 133)->(88, 149)
+sunglasses has probability of 1.06%
+28
+[(135, 195), (88, 149)]
+Line from (135, 195)->(108, 190)
+sunglasses has probability of 1.03%
+29
+[(88, 149), (108, 190)]
+Line from (108, 190)->(144, 186)
+sunglasses has probability of 1.24%
+30
+[(88, 149), (144, 186)]
+Line from (144, 186)->(152, 175)
+sunglasses has probability of 1.48%
+31
+[(88, 149), (152, 175)]
+Line from (152, 175)->(145, 164)
+sunglasses has probability of 1.29%
+32
+[(88, 149), (145, 164)]
+Line from (145, 164)->(174, 159)
+sunglasses has probability of 1.74%
+33
+[(88, 149), (174, 159)]
+Line from (174, 159)->(180, 152)
+sunglasses has probability of 1.30%
+34
+[(88, 149), (180, 152)]
+Line from (180, 152)->(162, 154)
+sunglasses has probability of 2.35%
+35
+[(88, 149), (162, 154)]
+Line from (88, 149)->(97, 132)
+sunglasses has probability of 2.50%
+36
+[(162, 154), (97, 132)]
+Line from (97, 132)->(130, 137)
+sunglasses has probability of 3.85%
+37
+[(162, 154), (130, 137)]
+Line from (130, 137)->(181, 137)
+sunglasses has probability of 14.13%
+38
+[(162, 154), (181, 137)]
+Line from (181, 137)->(180, 152)
+sunglasses has probability of 40.41%
+39
+[(162, 154), (180, 152)]
+Line from (162, 154)->(152, 175)
+sunglasses has probability of 72.54%
+40
+[(180, 152), (152, 175)]
+Line from (152, 175)->(147, 151)
+sunglasses has probability of 84.61%
+41
+[(180, 152), (147, 151)]
+Line from (147, 151)->(145, 164)
+sunglasses has probability of 88.02%
+42
+[(180, 152), (145, 164)]
+Line from (180, 152)->(194, 133)
+sunglasses has probability of 87.82%
+43
+[(145, 164), (194, 133)]
+Line from (194, 133)->(206, 128)
+sunglasses has probability of 90.97%
+44
+[(145, 164), (206, 128)]
+Line from (206, 128)->(219, 123)
+sunglasses has probability of 92.45%
+45
+[(145, 164), (219, 123)]
+Line from (219, 123)->(231, 120)
+sunglasses has probability of 93.89%
+46
+[(145, 164), (231, 120)]
+Line from (231, 120)->(244, 122)
+sunglasses has probability of 93.79%
+47
+[(145, 164), (244, 122)]
+Line from (244, 122)->(219, 123)
+sunglasses has probability of 94.94%
+48
+[(145, 164), (219, 123)]
+Line from (219, 123)->(216, 137)
+sunglasses has probability of 94.07%
+49
+[(145, 164), (216, 137)]
+Line from (216, 137)->(204, 142)
+sunglasses has probability of 93.49%
+50
+[(145, 164), (204, 142)]
+Line from (145, 164)->(162, 154)
+sunglasses has probability of 92.80%
+51
+[(204, 142), (162, 154)]
+Line from (162, 154)->(174, 159)
+sunglasses has probability of 92.40%
+52
+[(204, 142), (174, 159)]
+Line from (174, 159)->(181, 137)
+sunglasses has probability of 91.61%
+53
+[(204, 142), (181, 137)]
+Line from (204, 142)->(229, 133)
+sunglasses has probability of 92.34%
+54
+[(181, 137), (229, 133)]
+Line from (229, 133)->(216, 137)
+sunglasses has probability of 92.19%
+55
+[(181, 137), (216, 137)]
+Line from (216, 137)->(192, 146)
+sunglasses has probability of 92.07%
+56
+[(181, 137), (192, 146)]
+Line from (192, 146)->(204, 142)
+sunglasses has probability of 91.71%
+57
+[(181, 137), (204, 142)]
+Line from (204, 142)->(206, 128)
+sunglasses has probability of 93.56%
+58
+[(181, 137), (206, 128)]
+Line from (181, 137)->(192, 146)
+sunglasses has probability of 92.90%
+59
+[(206, 128), (192, 146)]
+Line from (192, 146)->(194, 133)
+sunglasses has probability of 92.80%
+60
+[(206, 128), (194, 133)]
+Line from (194, 133)->(181, 137)
+sunglasses has probability of 92.01%
+61
+[(206, 128), (181, 137)]
+Line from (206, 128)->(192, 146)
+sunglasses has probability of 92.81%
+62
+[(181, 137), (192, 146)]
+Line from (192, 146)->(180, 152)
+sunglasses has probability of 93.03%
+63
+[(181, 137), (180, 152)]
+Line from (180, 152)->(204, 142)
+sunglasses has probability of 93.44%
+64
+[(181, 137), (204, 142)]
+Line from (181, 137)->(206, 128)
+sunglasses has probability of 93.46%
+65
+[(204, 142), (206, 128)]
+Line from (206, 128)->(231, 120)
+sunglasses has probability of 93.64%
+66
+[(204, 142), (231, 120)]
+Line from (231, 120)->(229, 133)
+sunglasses has probability of 92.82%
+67
+[(204, 142), (229, 133)]
+Line from (204, 142)->(174, 159)
+sunglasses has probability of 92.51%
+68
+[(229, 133), (174, 159)]
+Line from (174, 159)->(192, 146)
+sunglasses has probability of 92.86%
+69
+[(229, 133), (192, 146)]
+Line from (192, 146)->(219, 123)
+sunglasses has probability of 92.23%
+70
+[(229, 133), (219, 123)]
+Line from (219, 123)->(204, 142)
+sunglasses has probability of 92.78%
+71
+[(229, 133), (204, 142)]
+Line from (204, 142)->(194, 133)
+sunglasses has probability of 92.05%
+72
+[(229, 133), (194, 133)]
+Line from (194, 133)->(219, 123)
+sunglasses has probability of 92.19%
+73
+[(229, 133), (219, 123)]
+Line from (219, 123)->(254, 115)
+sunglasses has probability of 91.48%
+74
+[(229, 133), (254, 115)]
+Line from (254, 115)->(231, 120)
+sunglasses has probability of 91.05%
+75
+[(229, 133), (231, 120)]
+Line from (231, 120)->(216, 137)
+sunglasses has probability of 90.25%
+76
+[(229, 133), (216, 137)]
+Line from (216, 137)->(206, 128)
+sunglasses has probability of 91.36%
+77
+[(229, 133), (206, 128)]
+Line from (206, 128)->(244, 122)
+sunglasses has probability of 92.61%
+78
+[(229, 133), (244, 122)]
+Line from (244, 122)->(254, 115)
+sunglasses has probability of 91.63%
+79
+[(229, 133), (254, 115)]
+Line from (254, 115)->(251, 80)
+sunglasses has probability of 90.89%
+80
+[(229, 133), (251, 80)]
+Line from (229, 133)->(180, 152)
+sunglasses has probability of 90.45%
+81
+[(251, 80), (180, 152)]
+Line from (180, 152)->(170, 143)
+sunglasses has probability of 90.06%
+82
+[(251, 80), (170, 143)]
+Line from (170, 143)->(181, 137)
+sunglasses has probability of 90.12%
+83
+[(251, 80), (181, 137)]
+Line from (181, 137)->(157, 140)
+sunglasses has probability of 89.60%
+84
+[(251, 80), (157, 140)]
+Line from (157, 140)->(144, 138)
+sunglasses has probability of 88.74%
+85
+[(251, 80), (144, 138)]
+Line from (144, 138)->(118, 133)
+sunglasses has probability of 88.71%
+86
+[(251, 80), (118, 133)]
+Line from (118, 133)->(105, 131)
+sunglasses has probability of 89.99%
+87
+[(251, 80), (105, 131)]
+
+Line from (105, 131)->(88, 149)
+sunglasses has probability of 90.87%
+88
+[(251, 80), (88, 149)]
+Line from (88, 149)->(77, 141)
+sunglasses has probability of 90.21%
+89
+[(251, 80), (77, 141)]
+Line from (77, 141)->(79, 128)
+sunglasses has probability of 90.61%
+90
+[(251, 80), (79, 128)]
+Line from (79, 128)->(66, 125)
+sunglasses has probability of 90.71%
+91
+[(251, 80), (66, 125)]
+Line from (66, 125)->(64, 139)
+sunglasses has probability of 90.95%
+92
+[(251, 80), (64, 139)]
+Line from (64, 139)->(88, 149)
+sunglasses has probability of 90.48%
+93
+[(251, 80), (88, 149)]
+Line from (88, 149)->(130, 137)
+sunglasses has probability of 91.80%
+94
+[(251, 80), (130, 137)]
+Line from (130, 137)->(118, 133)
+sunglasses has probability of 91.91%
+95
+[(251, 80), (118, 133)]
+Line from (118, 133)->(97, 132)
+sunglasses has probability of 92.09%
+96
+[(251, 80), (97, 132)]
+Line from (97, 132)->(66, 125)
+sunglasses has probability of 92.24%
+97
+[(251, 80), (66, 125)]
+Line from (66, 125)->(54, 118)
+sunglasses has probability of 92.43%
+98
+[(251, 80), (54, 118)]
+Line from (54, 118)->(48, 107)
+sunglasses has probability of 92.37%
+99
+[(251, 80), (48, 107)]
+Line from (48, 107)->(31, 109)
+sunglasses has probability of 92.18%
+100
+[(251, 80), (31, 109)]
+Line from (31, 109)->(31, 102)
+sunglasses has probability of 91.72%
+101
+[(251, 80), (31, 102)]
+Line from (31, 102)->(23, 99)
+sunglasses has probability of 92.08%
+102
+[(251, 80), (23, 99)]
+Line from (23, 99)->(31, 109)
+sunglasses has probability of 91.22%
+103
+[(251, 80), (31, 109)]
+Line from (31, 109)->(54, 118)
+sunglasses has probability of 90.81%
+104
+[(251, 80), (54, 118)]
+Line from (54, 118)->(53, 132)
+sunglasses has probability of 91.19%
+105
+[(251, 80), (53, 132)]
+Line from (53, 132)->(66, 125)
+sunglasses has probability of 90.67%
+106
+[(251, 80), (66, 125)]
+Line from (66, 125)->(54, 147)
+sunglasses has probability of 90.18%
+107
+[(251, 80), (54, 147)]
+Line from (54, 147)->(60, 159)
+sunglasses has probability of 89.73%
+108
+[(251, 80), (60, 159)]
+Line from (60, 159)->(53, 132)
+sunglasses has probability of 88.93%
+109
+[(251, 80), (53, 132)]
+Line from (53, 132)->(54, 147)
+sunglasses has probability of 89.46%
+110
+[(251, 80), (54, 147)]
+Line from (54, 147)->(73, 153)
+sunglasses has probability of 88.65%
+111
+[(251, 80), (73, 153)]
+Line from (73, 153)->(88, 174)
+sunglasses has probability of 88.81%
+112
+[(251, 80), (88, 174)]
+Line from (88, 174)->(77, 141)
+sunglasses has probability of 89.71%
+113
+[(251, 80), (77, 141)]
+Line from (77, 141)->(78, 165)
+sunglasses has probability of 91.20%
+114
+[(251, 80), (78, 165)]
+Line from (78, 165)->(97, 184)
+sunglasses has probability of 91.43%
+115
+[(251, 80), (97, 184)]
+Line from (97, 184)->(73, 153)
+sunglasses has probability of 91.14%
+116
+[(251, 80), (73, 153)]
+Line from (73, 153)->(91, 162)
+sunglasses has probability of 91.03%
+117
+[(251, 80), (91, 162)]
+Line from (91, 162)->(97, 184)
+sunglasses has probability of 91.80%
+118
+[(251, 80), (97, 184)]
+Line from (97, 184)->(122, 193)
+sunglasses has probability of 91.37%
+119
+[(251, 80), (122, 193)]
+Line from (122, 193)->(98, 228)
+sunglasses has probability of 91.05%
+120
+[(251, 80), (98, 228)]
+Line from (98, 228)->(64, 234)
+sunglasses has probability of 91.18%
+121
+[(251, 80), (64, 234)]
+Line from (64, 234)->(50, 232)
+sunglasses has probability of 92.22%
+122
+[(251, 80), (50, 232)]
+Line from (50, 232)->(36, 248)
+sunglasses has probability of 92.13%
+123
+[(251, 80), (36, 248)]
+Line from (36, 248)->(8, 213)
+sunglasses has probability of 91.30%
+124
+[(251, 80), (8, 213)]
+Line from (8, 213)->(29, 199)
+sunglasses has probability of 91.26%
+125
+[(251, 80), (29, 199)]
+Line from (29, 199)->(35, 194)
+sunglasses has probability of 91.17%
+126
+[(251, 80), (35, 194)]
+Line from (35, 194)->(38, 203)
+sunglasses has probability of 91.72%
+127
+[(251, 80), (38, 203)]
+Line from (38, 203)->(29, 199)
+sunglasses has probability of 91.92%
+128
+[(251, 80), (29, 199)]
+Line from (29, 199)->(23, 164)
+sunglasses has probability of 91.08%
+129
+[(251, 80), (23, 164)]
+Line from (23, 164)->(28, 159)
+sunglasses has probability of 91.16%
+130
+[(251, 80), (28, 159)]
+Line from (28, 159)->(19, 149)
+sunglasses has probability of 90.52%
+131
+[(251, 80), (19, 149)]
+Line from (19, 149)->(11, 139)
+sunglasses has probability of 90.53%
+132
+[(251, 80), (11, 139)]
+Line from (11, 139)->(6, 116)
+sunglasses has probability of 90.59%
+133
+[(251, 80), (6, 116)]
+Line from (6, 116)->(14, 126)
+sunglasses has probability of 91.81%
+134
+[(251, 80), (14, 126)]
+Line from (14, 126)->(10, 103)
+sunglasses has probability of 91.63%
+135
+[(251, 80), (10, 103)]
+Line from (10, 103)->(23, 99)
+sunglasses has probability of 91.43%
+136
+[(251, 80), (23, 99)]
+Line from (23, 99)->(36, 97)
+sunglasses has probability of 92.32%
+137
+[(251, 80), (36, 97)]
+Line from (36, 97)->(31, 102)
+sunglasses has probability of 91.44%
+138
+[(251, 80), (31, 102)]
+Line from (31, 102)->(48, 107)
+sunglasses has probability of 92.49%
+139
+[(251, 80), (48, 107)]
+Line from (48, 107)->(66, 125)
+sunglasses has probability of 91.82%
+140
+[(251, 80), (66, 125)]
+Line from (66, 125)->(92, 130)
+sunglasses has probability of 92.09%
+141
+[(251, 80), (92, 130)]
+Line from (92, 130)->(91, 162)
+sunglasses has probability of 92.73%
+142
+[(251, 80), (91, 162)]
+Line from (91, 162)->(78, 165)
+sunglasses has probability of 91.74%
+143
+[(251, 80), (78, 165)]
+Line from (78, 165)->(54, 147)
+sunglasses has probability of 92.13%
+144
+[(251, 80), (54, 147)]
+Line from (54, 147)->(77, 141)
+sunglasses has probability of 92.20%
+145
+[(251, 80), (77, 141)]
+Line from (77, 141)->(53, 132)
+sunglasses has probability of 91.81%
+146
+[(251, 80), (53, 132)]
+Line from (53, 132)->(79, 128)
+sunglasses has probability of 91.25%
+147
+[(251, 80), (79, 128)]
+Line from (79, 128)->(105, 131)
+sunglasses has probability of 91.30%
+148
+[(251, 80), (105, 131)]
+Line from (105, 131)->(130, 137)
+sunglasses has probability of 91.35%
+149
+[(251, 80), (130, 137)]
+Line from (130, 137)->(144, 138)
+sunglasses has probability of 91.17%
+150
+[(251, 80), (144, 138)]
+Line from (144, 138)->(147, 151)
+sunglasses has probability of 90.23%
+151
+[(251, 80), (147, 151)]
+Line from (147, 151)->(170, 143)
+sunglasses has probability of 91.68%
+152
+[(251, 80), (170, 143)]
+Line from (170, 143)->(157, 140)
+sunglasses has probability of 91.01%
+153
+[(251, 80), (157, 140)]
+Line from (157, 140)->(162, 154)
+sunglasses has probability of 90.72%
+154
+[(251, 80), (162, 154)]
+Line from (162, 154)->(144, 186)
+sunglasses has probability of 91.40%
+155
+[(251, 80), (144, 186)]
+Line from (144, 186)->(157, 140)
+sunglasses has probability of 92.20%

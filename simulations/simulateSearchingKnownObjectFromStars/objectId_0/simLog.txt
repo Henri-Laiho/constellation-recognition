@@ -1,0 +1,1422 @@
+Check that object label is in categories:
+True
+Initial guess:
+shirt has probability of 1.55%
+1
+[(123, 142)]
+Line from (123, 142)->(118, 129)
+shirt has probability of 1.57%
+2
+[(123, 142), (118, 129)]
+Line from (118, 129)->(125, 127)
+shirt has probability of 1.45%
+3
+[(123, 142), (125, 127)]
+Line from (123, 142)->(116, 160)
+shirt has probability of 1.46%
+4
+[(125, 127), (116, 160)]
+Line from (116, 160)->(124, 191)
+shirt has probability of 2.07%
+5
+[(125, 127), (124, 191)]
+Line from (125, 127)->(130, 116)
+shirt has probability of 2.18%
+6
+[(124, 191), (130, 116)]
+Line from (130, 116)->(117, 101)
+shirt has probability of 2.95%
+7
+[(124, 191), (117, 101)]
+Line from (117, 101)->(118, 129)
+shirt has probability of 3.19%
+8
+[(124, 191), (118, 129)]
+Line from (124, 191)->(86, 219)
+shirt has probability of 4.80%
+9
+[(118, 129), (86, 219)]
+Line from (86, 219)->(102, 219)
+shirt has probability of 5.30%
+10
+[(118, 129), (102, 219)]
+Line from (102, 219)->(115, 219)
+shirt has probability of 5.11%
+11
+[(118, 129), (115, 219)]
+Line from (115, 219)->(128, 220)
+shirt has probability of 5.28%
+12
+[(118, 129), (128, 220)]
+Line from (128, 220)->(129, 227)
+shirt has probability of 5.64%
+13
+[(118, 129), (129, 227)]
+Line from (129, 227)->(135, 231)
+shirt has probability of 5.22%
+14
+[(118, 129), (135, 231)]
+Line from (135, 231)->(141, 220)
+shirt has probability of 4.51%
+15
+[(118, 129), (141, 220)]
+Line from (141, 220)->(128, 220)
+shirt has probability of 4.55%
+16
+[(118, 129), (128, 220)]
+Line from (128, 220)->(135, 231)
+shirt has probability of 4.11%
+17
+[(118, 129), (135, 231)]
+Line from (135, 231)->(145, 241)
+shirt has probability of 3.74%
+18
+[(118, 129), (145, 241)]
+Line from (145, 241)->(149, 251)
+shirt has probability of 3.74%
+19
+[(118, 129), (149, 251)]
+Line from (118, 129)->(130, 116)
+shirt has probability of 3.40%
+20
+[(149, 251), (130, 116)]
+Line from (149, 251)->(141, 220)
+shirt has probability of 3.97%
+21
+[(130, 116), (141, 220)]
+Line from (141, 220)->(129, 227)
+shirt has probability of 3.75%
+22
+[(130, 116), (129, 227)]
+Line from (129, 227)->(115, 219)
+shirt has probability of 3.97%
+23
+[(130, 116), (115, 219)]
+Line from (115, 219)->(97, 231)
+shirt has probability of 3.94%
+24
+[(130, 116), (97, 231)]
+Line from (97, 231)->(102, 219)
+shirt has probability of 3.95%
+25
+[(130, 116), (102, 219)]
+Line from (130, 116)->(123, 142)
+shirt has probability of 4.42%
+26
+[(102, 219), (123, 142)]
+Line from (123, 142)->(125, 127)
+shirt has probability of 4.32%
+27
+[(102, 219), (125, 127)]
+Line from (102, 219)->(128, 220)
+shirt has probability of 4.39%
+28
+[(125, 127), (128, 220)]
+Line from (128, 220)->(145, 241)
+shirt has probability of 4.23%
+29
+[(125, 127), (145, 241)]
+Line from (145, 241)->(141, 220)
+shirt has probability of 4.37%
+30
+[(125, 127), (141, 220)]
+Line from (141, 220)->(161, 219)
+shirt has probability of 4.06%
+31
+[(125, 127), (161, 219)]
+Line from (161, 219)->(174, 220)
+shirt has probability of 3.92%
+32
+[(125, 127), (174, 220)]
+Line from (174, 220)->(186, 211)
+shirt has probability of 3.18%
+33
+[(125, 127), (186, 211)]
+Line from (186, 211)->(188, 198)
+shirt has probability of 2.94%
+34
+[(125, 127), (188, 198)]
+Line from (188, 198)->(184, 191)
+shirt has probability of 2.50%
+35
+[(125, 127), (184, 191)]
+Line from (184, 191)->(188, 185)
+shirt has probability of 2.68%
+36
+[(125, 127), (188, 185)]
+Line from (188, 185)->(187, 172)
+shirt has probability of 2.92%
+37
+[(125, 127), (187, 172)]
+Line from (187, 172)->(190, 159)
+shirt has probability of 2.94%
+38
+[(125, 127), (190, 159)]
+Line from (190, 159)->(186, 147)
+shirt has probability of 2.98%
+39
+[(125, 127), (186, 147)]
+Line from (186, 147)->(188, 134)
+shirt has probability of 3.11%
+40
+[(125, 127), (188, 134)]
+Line from (188, 134)->(186, 121)
+shirt has probability of 2.78%
+41
+[(125, 127), (186, 121)]
+Line from (186, 121)->(179, 126)
+shirt has probability of 2.53%
+42
+[(125, 127), (179, 126)]
+Line from (179, 126)->(188, 134)
+shirt has probability of 2.22%
+43
+[(125, 127), (188, 134)]
+Line from (188, 134)->(190, 108)
+shirt has probability of 2.21%
+44
+[(125, 127), (190, 108)]
+Line from (190, 108)->(186, 121)
+shirt has probability of 2.01%
+45
+[(125, 127), (186, 121)]
+Line from (125, 127)->(132, 153)
+shirt has probability of 2.11%
+46
+[(186, 121), (132, 153)]
+Line from (132, 153)->(123, 142)
+shirt has probability of 2.03%
+47
+[(186, 121), (123, 142)]
+Line from (186, 121)->(204, 107)
+shirt has probability of 2.02%
+48
+[(123, 142), (204, 107)]
+Line from (204, 107)->(217, 101)
+shirt has probability of 1.96%
+49
+[(123, 142), (217, 101)]
+Line from (217, 101)->(222, 103)
+shirt has probability of 1.93%
+50
+[(123, 142), (222, 103)]
+Line from (222, 103)->(226, 103)
+shirt has probability of 1.94%
+51
+[(123, 142), (226, 103)]
+Line from (226, 103)->(217, 101)
+shirt has probability of 1.87%
+52
+[(123, 142), (217, 101)]
+Line from (217, 101)->(218, 92)
+shirt has probability of 1.75%
+53
+[(123, 142), (218, 92)]
+Line from (218, 92)->(220, 89)
+shirt has probability of 1.73%
+54
+[(123, 142), (220, 89)]
+Line from (220, 89)->(225, 84)
+shirt has probability of 1.69%
+55
+[(123, 142), (225, 84)]
+Line from (225, 84)->(221, 76)
+shirt has probability of 1.70%
+56
+[(123, 142), (221, 76)]
+Line from (221, 76)->(213, 65)
+shirt has probability of 2.03%
+57
+[(123, 142), (213, 65)]
+Line from (213, 65)->(201, 61)
+shirt has probability of 2.17%
+58
+[(123, 142), (201, 61)]
+Line from (201, 61)->(189, 55)
+shirt has probability of 2.32%
+59
+[(123, 142), (189, 55)]
+Line from (189, 55)->(177, 51)
+shirt has probability of 2.31%
+60
+[(123, 142), (177, 51)]
+Line from (177, 51)->(176, 62)
+shirt has probability of 2.31%
+61
+[(123, 142), (176, 62)]
+Line from (176, 62)->(189, 55)
+shirt has probability of 2.38%
+62
+[(123, 142), (189, 55)]
+Line from (189, 55)->(164, 47)
+shirt has probability of 2.42%
+63
+[(123, 142), (164, 47)]
+Line from (164, 47)->(177, 51)
+shirt has probability of 2.42%
+64
+[(123, 142), (177, 51)]
+Line from (177, 51)->(151, 47)
+shirt has probability of 2.53%
+65
+[(123, 142), (151, 47)]
+Line from (151, 47)->(138, 47)
+shirt has probability of 2.63%
+66
+[(123, 142), (138, 47)]
+Line from (138, 47)->(144, 58)
+shirt has probability of 2.83%
+67
+[(123, 142), (144, 58)]
+Line from (144, 58)->(153, 62)
+shirt has probability of 3.02%
+68
+[(123, 142), (153, 62)]
+Line from (153, 62)->(138, 47)
+shirt has probability of 3.19%
+69
+[(123, 142), (138, 47)]
+Line from (138, 47)->(124, 47)
+shirt has probability of 2.99%
+70
+[(123, 142), (124, 47)]
+Line from (124, 47)->(117, 45)
+shirt has probability of 3.07%
+71
+[(123, 142), (117, 45)]
+Line from (117, 45)->(111, 46)
+shirt has probability of 3.01%
+72
+[(123, 142), (111, 46)]
+Line from (111, 46)->(98, 46)
+shirt has probability of 3.10%
+73
+[(123, 142), (98, 46)]
+Line from (98, 46)->(85, 47)
+shirt has probability of 2.78%
+74
+[(123, 142), (85, 47)]
+Line from (85, 47)->(72, 49)
+shirt has probability of 2.64%
+75
+[(123, 142), (72, 49)]
+Line from (72, 49)->(59, 54)
+shirt has probability of 2.34%
+76
+[(123, 142), (59, 54)]
+Line from (59, 54)->(46, 55)
+shirt has probability of 2.55%
+77
+[(123, 142), (46, 55)]
+Line from (46, 55)->(35, 63)
+shirt has probability of 2.54%
+78
+[(123, 142), (35, 63)]
+Line from (35, 63)->(32, 76)
+shirt has probability of 2.40%
+79
+[(123, 142), (32, 76)]
+Line from (32, 76)->(26, 87)
+shirt has probability of 2.50%
+80
+[(123, 142), (26, 87)]
+Line from (26, 87)->(32, 89)
+shirt has probability of 2.52%
+81
+[(123, 142), (32, 89)]
+Line from (32, 89)->(34, 94)
+shirt has probability of 2.58%
+82
+[(123, 142), (34, 94)]
+Line from (34, 94)->(27, 95)
+shirt has probability of 2.50%
+83
+[(123, 142), (27, 95)]
+Line from (27, 95)->(26, 87)
+shirt has probability of 2.55%
+84
+[(123, 142), (26, 87)]
+Line from (26, 87)->(34, 94)
+shirt has probability of 2.59%
+85
+[(123, 142), (34, 94)]
+Line from (34, 94)->(35, 102)
+shirt has probability of 2.63%
+86
+[(123, 142), (35, 102)]
+Line from (35, 102)->(28, 105)
+shirt has probability of 2.61%
+87
+[(123, 142), (28, 105)]
+Line from (28, 105)->(27, 95)
+shirt has probability of 2.56%
+88
+[(123, 142), (27, 95)]
+Line from (27, 95)->(32, 89)
+shirt has probability of 2.51%
+89
+[(123, 142), (32, 89)]
+Line from (32, 89)->(32, 76)
+shirt has probability of 2.51%
+90
+[(123, 142), (32, 76)]
+Line from (32, 76)->(34, 94)
+shirt has probability of 2.43%
+91
+[(123, 142), (34, 94)]
+Line from (34, 94)->(28, 105)
+shirt has probability of 2.53%
+92
+[(123, 142), (28, 105)]
+Line from (28, 105)->(34, 114)
+shirt has probability of 2.56%
+93
+[(123, 142), (34, 114)]
+Line from (34, 114)->(40, 118)
+shirt has probability of 2.55%
+94
+[(123, 142), (40, 118)]
+Line from (40, 118)->(53, 127)
+shirt has probability of 2.77%
+95
+[(123, 142), (53, 127)]
+Line from (53, 127)->(67, 130)
+shirt has probability of 2.61%
+96
+[(123, 142), (67, 130)]
+Line from (67, 130)->(78, 141)
+shirt has probability of 2.99%
+97
+[(123, 142), (78, 141)]
+Line from (78, 141)->(67, 144)
+shirt has probability of 2.90%
+98
+[(123, 142), (67, 144)]
+Line from (67, 144)->(66, 157)
+shirt has probability of 2.87%
+99
+[(123, 142), (66, 157)]
+Line from (66, 157)->(56, 157)
+shirt has probability of 2.90%
+100
+[(123, 142), (56, 157)]
+Line from (56, 157)->(67, 144)
+shirt has probability of 3.52%
+101
+[(123, 142), (67, 144)]
+Line from (67, 144)->(67, 130)
+shirt has probability of 3.20%
+102
+[(123, 142), (67, 130)]
+Line from (67, 130)->(68, 117)
+shirt has probability of 2.99%
+103
+[(123, 142), (68, 117)]
+Line from (68, 117)->(62, 106)
+shirt has probability of 3.00%
+104
+[(123, 142), (62, 106)]
+Line from (62, 106)->(49, 102)
+shirt has probability of 2.88%
+105
+[(123, 142), (49, 102)]
+Line from (49, 102)->(34, 94)
+shirt has probability of 2.92%
+106
+[(123, 142), (34, 94)]
+Line from (34, 94)->(34, 114)
+shirt has probability of 2.83%
+107
+[(123, 142), (34, 114)]
+Line from (34, 114)->(35, 102)
+shirt has probability of 2.81%
+108
+[(123, 142), (35, 102)]
+Line from (35, 102)->(27, 95)
+shirt has probability of 2.75%
+109
+[(123, 142), (27, 95)]
+Line from (27, 95)->(34, 114)
+shirt has probability of 2.76%
+110
+[(123, 142), (34, 114)]
+Line from (34, 114)->(49, 102)
+shirt has probability of 2.71%
+111
+[(123, 142), (49, 102)]
+Line from (49, 102)->(35, 102)
+shirt has probability of 2.78%
+112
+[(123, 142), (35, 102)]
+Line from (35, 102)->(32, 89)
+shirt has probability of 2.77%
+113
+[(123, 142), (32, 89)]
+Line from (32, 89)->(28, 105)
+shirt has probability of 2.75%
+114
+[(123, 142), (28, 105)]
+Line from (28, 105)->(40, 118)
+shirt has probability of 2.77%
+115
+[(123, 142), (40, 118)]
+Line from (40, 118)->(35, 102)
+shirt has probability of 2.81%
+116
+[(123, 142), (35, 102)]
+Line from (35, 102)->(26, 87)
+shirt has probability of 2.74%
+117
+[(123, 142), (26, 87)]
+Line from (26, 87)->(28, 105)
+shirt has probability of 2.78%
+118
+[(123, 142), (28, 105)]
+Line from (28, 105)->(49, 102)
+shirt has probability of 2.75%
+119
+[(123, 142), (49, 102)]
+Line from (49, 102)->(40, 118)
+shirt has probability of 2.67%
+120
+[(123, 142), (40, 118)]
+Line from (40, 118)->(40, 135)
+shirt has probability of 2.49%
+121
+[(123, 142), (40, 135)]
+Line from (40, 135)->(53, 127)
+shirt has probability of 2.55%
+122
+[(123, 142), (53, 127)]
+Line from (53, 127)->(68, 117)
+shirt has probability of 2.69%
+123
+[(123, 142), (68, 117)]
+Line from (68, 117)->(49, 102)
+shirt has probability of 2.66%
+124
+[(123, 142), (49, 102)]
+Line from (49, 102)->(32, 89)
+shirt has probability of 2.73%
+125
+[(123, 142), (32, 89)]
+Line from (32, 89)->(34, 114)
+shirt has probability of 2.69%
+126
+[(123, 142), (34, 114)]
+Line from (34, 114)->(16, 125)
+shirt has probability of 2.62%
+127
+[(123, 142), (16, 125)]
+Line from (16, 125)->(4, 120)
+shirt has probability of 2.89%
+128
+[(123, 142), (4, 120)]
+Line from (4, 120)->(1, 133)
+shirt has probability of 2.96%
+129
+[(123, 142), (1, 133)]
+Line from (1, 133)->(1, 146)
+shirt has probability of 2.96%
+130
+[(123, 142), (1, 146)]
+Line from (1, 146)->(1, 159)
+shirt has probability of 2.81%
+131
+[(123, 142), (1, 159)]
+Line from (1, 159)->(1, 172)
+shirt has probability of 2.99%
+132
+[(123, 142), (1, 172)]
+Line from (1, 172)->(1, 186)
+shirt has probability of 3.12%
+133
+[(123, 142), (1, 186)]
+Line from (1, 186)->(1, 199)
+shirt has probability of 2.99%
+134
+[(123, 142), (1, 199)]
+Line from (1, 199)->(1, 212)
+shirt has probability of 2.95%
+135
+[(123, 142), (1, 212)]
+Line from (1, 212)->(1, 225)
+shirt has probability of 2.92%
+136
+[(123, 142), (1, 225)]
+Line from (1, 225)->(2, 238)
+shirt has probability of 2.90%
+137
+[(123, 142), (2, 238)]
+Line from (2, 238)->(18, 234)
+shirt has probability of 3.15%
+138
+[(123, 142), (18, 234)]
+Line from (18, 234)->(23, 235)
+shirt has probability of 3.20%
+139
+[(123, 142), (23, 235)]
+Line from (23, 235)->(31, 229)
+shirt has probability of 3.31%
+140
+[(123, 142), (31, 229)]
+Line from (31, 229)->(41, 221)
+shirt has probability of 3.40%
+141
+[(123, 142), (41, 221)]
+Line from (41, 221)->(52, 212)
+shirt has probability of 3.46%
+142
+[(123, 142), (52, 212)]
+Line from (52, 212)->(63, 206)
+shirt has probability of 3.52%
+143
+[(123, 142), (63, 206)]
+Line from (63, 206)->(73, 215)
+shirt has probability of 3.46%
+144
+[(123, 142), (73, 215)]
+Line from (73, 215)->(78, 204)
+shirt has probability of 3.69%
+145
+[(123, 142), (78, 204)]
+Line from (78, 204)->(71, 195)
+shirt has probability of 3.57%
+146
+[(123, 142), (71, 195)]
+Line from (71, 195)->(66, 183)
+shirt has probability of 3.67%
+147
+[(123, 142), (66, 183)]
+Line from (66, 183)->(63, 178)
+shirt has probability of 3.67%
+148
+[(123, 142), (63, 178)]
+Line from (63, 178)->(65, 170)
+shirt has probability of 3.54%
+149
+[(123, 142), (65, 170)]
+Line from (65, 170)->(66, 157)
+shirt has probability of 3.68%
+150
+[(123, 142), (66, 157)]
+Line from (66, 157)->(78, 141)
+shirt has probability of 3.60%
+151
+[(123, 142), (78, 141)]
+Line from (78, 141)->(91, 153)
+shirt has probability of 3.98%
+152
+[(123, 142), (91, 153)]
+Line from (91, 153)->(116, 160)
+shirt has probability of 4.01%
+153
+[(123, 142), (116, 160)]
+Line from (116, 160)->(132, 153)
+shirt has probability of 4.12%
+154
+[(123, 142), (132, 153)]
+Line from (132, 153)->(155, 161)
+shirt has probability of 4.36%
+155
+[(123, 142), (155, 161)]
+Line from (155, 161)->(186, 147)
+shirt has probability of 5.28%
+156
+[(123, 142), (186, 147)]
+Line from (186, 147)->(179, 126)
+shirt has probability of 4.95%
+157
+[(123, 142), (179, 126)]
+Line from (179, 126)->(190, 108)
+shirt has probability of 5.33%
+158
+[(123, 142), (190, 108)]
+Line from (190, 108)->(190, 94)
+shirt has probability of 5.28%
+159
+[(123, 142), (190, 94)]
+Line from (190, 94)->(178, 91)
+shirt has probability of 4.83%
+160
+[(123, 142), (178, 91)]
+Line from (178, 91)->(190, 108)
+shirt has probability of 4.98%
+161
+[(123, 142), (190, 108)]
+Line from (190, 108)->(204, 107)
+shirt has probability of 4.91%
+162
+[(123, 142), (204, 107)]
+Line from (204, 107)->(222, 103)
+shirt has probability of 5.17%
+163
+[(123, 142), (222, 103)]
+Line from (222, 103)->(218, 92)
+shirt has probability of 5.23%
+164
+[(123, 142), (218, 92)]
+Line from (218, 92)->(225, 84)
+shirt has probability of 5.20%
+165
+[(123, 142), (225, 84)]
+Line from (225, 84)->(226, 103)
+shirt has probability of 5.35%
+166
+[(123, 142), (226, 103)]
+Line from (226, 103)->(218, 92)
+shirt has probability of 5.03%
+167
+[(123, 142), (218, 92)]
+Line from (218, 92)->(221, 76)
+shirt has probability of 4.93%
+168
+[(123, 142), (221, 76)]
+Line from (221, 76)->(220, 89)
+shirt has probability of 4.90%
+169
+[(123, 142), (220, 89)]
+Line from (220, 89)->(217, 101)
+shirt has probability of 4.95%
+170
+[(123, 142), (217, 101)]
+Line from (217, 101)->(225, 84)
+shirt has probability of 5.03%
+171
+[(123, 142), (225, 84)]
+Line from (225, 84)->(222, 103)
+shirt has probability of 4.97%
+172
+[(123, 142), (222, 103)]
+Line from (222, 103)->(220, 89)
+shirt has probability of 5.07%
+173
+[(123, 142), (220, 89)]
+Line from (220, 89)->(226, 103)
+shirt has probability of 5.22%
+174
+[(123, 142), (226, 103)]
+Line from (226, 103)->(204, 107)
+shirt has probability of 5.30%
+175
+[(123, 142), (204, 107)]
+Line from (204, 107)->(190, 94)
+shirt has probability of 5.13%
+176
+[(123, 142), (190, 94)]
+Line from (190, 94)->(186, 121)
+shirt has probability of 5.13%
+177
+[(123, 142), (186, 121)]
+Line from (186, 121)->(186, 147)
+shirt has probability of 5.03%
+178
+[(123, 142), (186, 147)]
+Line from (186, 147)->(187, 172)
+shirt has probability of 4.85%
+179
+[(123, 142), (187, 172)]
+Line from (187, 172)->(184, 191)
+shirt has probability of 5.02%
+180
+[(123, 142), (184, 191)]
+Line from (184, 191)->(186, 211)
+shirt has probability of 5.12%
+181
+[(123, 142), (186, 211)]
+Line from (186, 211)->(188, 185)
+shirt has probability of 5.43%
+182
+[(123, 142), (188, 185)]
+Line from (188, 185)->(188, 198)
+shirt has probability of 5.55%
+183
+[(123, 142), (188, 198)]
+Line from (188, 198)->(206, 184)
+shirt has probability of 5.36%
+184
+[(123, 142), (206, 184)]
+Line from (206, 184)->(188, 185)
+shirt has probability of 5.09%
+185
+[(123, 142), (188, 185)]
+Line from (188, 185)->(190, 159)
+shirt has probability of 4.97%
+186
+[(123, 142), (190, 159)]
+Line from (190, 159)->(188, 134)
+shirt has probability of 5.28%
+187
+[(123, 142), (188, 134)]
+Line from (188, 134)->(218, 134)
+shirt has probability of 5.52%
+188
+[(123, 142), (218, 134)]
+Line from (218, 134)->(221, 147)
+shirt has probability of 5.29%
+189
+[(123, 142), (221, 147)]
+Line from (221, 147)->(243, 152)
+shirt has probability of 4.92%
+190
+[(123, 142), (243, 152)]
+Line from (243, 152)->(218, 134)
+shirt has probability of 4.87%
+191
+[(123, 142), (218, 134)]
+Line from (218, 134)->(226, 103)
+shirt has probability of 5.79%
+192
+[(123, 142), (226, 103)]
+Line from (226, 103)->(221, 76)
+shirt has probability of 5.74%
+193
+[(123, 142), (221, 76)]
+Line from (221, 76)->(217, 101)
+shirt has probability of 5.79%
+194
+[(123, 142), (217, 101)]
+Line from (217, 101)->(190, 108)
+shirt has probability of 5.85%
+195
+[(123, 142), (190, 108)]
+Line from (190, 108)->(222, 103)
+shirt has probability of 5.87%
+196
+[(123, 142), (222, 103)]
+Line from (222, 103)->(221, 76)
+shirt has probability of 5.73%
+197
+[(123, 142), (221, 76)]
+Line from (221, 76)->(201, 61)
+shirt has probability of 5.68%
+198
+[(123, 142), (201, 61)]
+Line from (201, 61)->(176, 62)
+shirt has probability of 5.98%
+199
+[(123, 142), (176, 62)]
+Line from (176, 62)->(164, 47)
+shirt has probability of 5.95%
+200
+[(123, 142), (164, 47)]
+Line from (164, 47)->(151, 47)
+shirt has probability of 6.00%
+201
+[(123, 142), (151, 47)]
+Line from (151, 47)->(144, 58)
+shirt has probability of 5.86%
+202
+[(123, 142), (144, 58)]
+Line from (144, 58)->(124, 47)
+shirt has probability of 6.61%
+203
+[(123, 142), (124, 47)]
+Line from (124, 47)->(111, 46)
+shirt has probability of 6.61%
+204
+[(123, 142), (111, 46)]
+Line from (111, 46)->(85, 47)
+shirt has probability of 6.81%
+205
+[(123, 142), (85, 47)]
+Line from (85, 47)->(59, 54)
+shirt has probability of 6.79%
+206
+[(123, 142), (59, 54)]
+Line from (59, 54)->(35, 63)
+shirt has probability of 7.00%
+207
+[(123, 142), (35, 63)]
+Line from (35, 63)->(26, 87)
+shirt has probability of 6.92%
+208
+[(123, 142), (26, 87)]
+Line from (26, 87)->(40, 118)
+shirt has probability of 6.96%
+209
+[(123, 142), (40, 118)]
+Line from (40, 118)->(62, 106)
+shirt has probability of 7.14%
+210
+[(123, 142), (62, 106)]
+Line from (62, 106)->(67, 130)
+shirt has probability of 7.08%
+211
+[(123, 142), (67, 130)]
+Line from (67, 130)->(66, 157)
+shirt has probability of 6.92%
+212
+[(123, 142), (66, 157)]
+Line from (66, 157)->(63, 178)
+shirt has probability of 6.86%
+213
+[(123, 142), (63, 178)]
+Line from (63, 178)->(81, 186)
+shirt has probability of 7.35%
+214
+[(123, 142), (81, 186)]
+Line from (81, 186)->(71, 195)
+shirt has probability of 7.11%
+215
+[(123, 142), (71, 195)]
+Line from (71, 195)->(63, 206)
+shirt has probability of 6.86%
+216
+[(123, 142), (63, 206)]
+Line from (63, 206)->(78, 204)
+shirt has probability of 6.87%
+217
+[(123, 142), (78, 204)]
+Line from (78, 204)->(81, 186)
+shirt has probability of 7.27%
+218
+[(123, 142), (81, 186)]
+Line from (81, 186)->(66, 183)
+shirt has probability of 7.54%
+219
+[(123, 142), (66, 183)]
+Line from (66, 183)->(65, 170)
+shirt has probability of 7.33%
+220
+[(123, 142), (65, 170)]
+Line from (65, 170)->(56, 157)
+shirt has probability of 7.40%
+221
+[(123, 142), (56, 157)]
+Line from (56, 157)->(63, 178)
+shirt has probability of 7.53%
+222
+[(123, 142), (63, 178)]
+Line from (63, 178)->(71, 195)
+shirt has probability of 7.53%
+223
+[(123, 142), (71, 195)]
+Line from (71, 195)->(73, 215)
+shirt has probability of 7.64%
+224
+[(123, 142), (73, 215)]
+Line from (73, 215)->(86, 219)
+shirt has probability of 7.49%
+225
+[(123, 142), (86, 219)]
+Line from (86, 219)->(97, 231)
+shirt has probability of 7.33%
+226
+[(123, 142), (97, 231)]
+Line from (97, 231)->(78, 247)
+shirt has probability of 7.50%
+227
+[(123, 142), (78, 247)]
+Line from (78, 247)->(69, 233)
+shirt has probability of 7.12%
+228
+[(123, 142), (69, 233)]
+Line from (69, 233)->(61, 241)
+shirt has probability of 7.18%
+229
+[(123, 142), (61, 241)]
+Line from (61, 241)->(51, 239)
+shirt has probability of 7.09%
+230
+[(123, 142), (51, 239)]
+Line from (51, 239)->(69, 233)
+shirt has probability of 7.41%
+231
+[(123, 142), (69, 233)]
+Line from (69, 233)->(73, 215)
+shirt has probability of 7.10%
+232
+[(123, 142), (73, 215)]
+Line from (73, 215)->(52, 212)
+shirt has probability of 7.05%
+233
+[(123, 142), (52, 212)]
+Line from (52, 212)->(78, 204)
+shirt has probability of 7.10%
+234
+[(123, 142), (78, 204)]
+Line from (78, 204)->(86, 219)
+shirt has probability of 6.98%
+235
+[(123, 142), (86, 219)]
+Line from (86, 219)->(69, 233)
+shirt has probability of 6.91%
+236
+[(123, 142), (69, 233)]
+Line from (69, 233)->(97, 231)
+shirt has probability of 7.43%
+237
+[(123, 142), (97, 231)]
+Line from (97, 231)->(115, 248)
+shirt has probability of 8.13%
+238
+[(123, 142), (115, 248)]
+Line from (115, 248)->(121, 245)
+shirt has probability of 8.08%
+239
+[(123, 142), (121, 245)]
+Line from (121, 245)->(135, 231)
+shirt has probability of 8.19%
+240
+[(123, 142), (135, 231)]
+Line from (135, 231)->(115, 219)
+shirt has probability of 8.04%
+241
+[(123, 142), (115, 219)]
+Line from (115, 219)->(124, 191)
+shirt has probability of 8.80%
+242
+[(123, 142), (124, 191)]
+Line from (124, 191)->(128, 220)
+shirt has probability of 8.69%
+243
+[(123, 142), (128, 220)]
+Line from (128, 220)->(121, 245)
+shirt has probability of 8.78%
+244
+[(123, 142), (121, 245)]
+Line from (121, 245)->(129, 227)
+shirt has probability of 8.31%
+245
+[(123, 142), (129, 227)]
+Line from (129, 227)->(145, 241)
+shirt has probability of 8.43%
+246
+[(123, 142), (145, 241)]
+Line from (145, 241)->(121, 245)
+shirt has probability of 8.64%
+247
+[(123, 142), (121, 245)]
+Line from (121, 245)->(97, 231)
+shirt has probability of 8.69%
+248
+[(123, 142), (97, 231)]
+Line from (97, 231)->(73, 215)
+shirt has probability of 8.52%
+249
+[(123, 142), (73, 215)]
+Line from (73, 215)->(102, 219)
+shirt has probability of 8.35%
+250
+[(123, 142), (102, 219)]
+Line from (102, 219)->(78, 204)
+shirt has probability of 8.01%
+251
+[(123, 142), (78, 204)]
+Line from (78, 204)->(66, 183)
+shirt has probability of 7.94%
+252
+[(123, 142), (66, 183)]
+Line from (66, 183)->(63, 206)
+shirt has probability of 8.42%
+253
+[(123, 142), (63, 206)]
+Line from (63, 206)->(81, 186)
+shirt has probability of 8.50%
+254
+[(123, 142), (81, 186)]
+Line from (81, 186)->(65, 170)
+shirt has probability of 8.16%
+255
+[(123, 142), (65, 170)]
+Line from (65, 170)->(71, 195)
+shirt has probability of 8.11%
+256
+[(123, 142), (71, 195)]
+Line from (71, 195)->(52, 212)
+shirt has probability of 7.76%
+257
+[(123, 142), (52, 212)]
+Line from (52, 212)->(31, 229)
+shirt has probability of 7.72%
+258
+[(123, 142), (31, 229)]
+Line from (31, 229)->(18, 234)
+shirt has probability of 7.47%
+259
+[(123, 142), (18, 234)]
+Line from (18, 234)->(1, 225)
+shirt has probability of 6.70%
+260
+[(123, 142), (1, 225)]
+Line from (1, 225)->(23, 235)
+shirt has probability of 6.52%
+261
+[(123, 142), (23, 235)]
+Line from (23, 235)->(2, 238)
+shirt has probability of 6.35%
+262
+[(123, 142), (2, 238)]
+Line from (2, 238)->(1, 212)
+shirt has probability of 6.41%
+263
+[(123, 142), (1, 212)]
+Line from (1, 212)->(18, 234)
+shirt has probability of 7.01%
+264
+[(123, 142), (18, 234)]
+Line from (18, 234)->(41, 221)
+shirt has probability of 7.18%
+265
+[(123, 142), (41, 221)]
+Line from (41, 221)->(51, 239)
+shirt has probability of 7.20%
+266
+[(123, 142), (51, 239)]
+Line from (51, 239)->(31, 229)
+shirt has probability of 7.13%
+267
+[(123, 142), (31, 229)]
+Line from (31, 229)->(1, 225)
+shirt has probability of 7.34%
+268
+[(123, 142), (1, 225)]
+Line from (1, 225)->(1, 199)
+shirt has probability of 7.41%
+269
+[(123, 142), (1, 199)]
+Line from (1, 199)->(1, 172)
+shirt has probability of 7.43%
+270
+[(123, 142), (1, 172)]
+Line from (1, 172)->(24, 167)
+shirt has probability of 7.86%
+271
+[(123, 142), (24, 167)]
+Line from (24, 167)->(1, 159)
+shirt has probability of 7.69%
+272
+[(123, 142), (1, 159)]
+Line from (1, 159)->(1, 133)
+shirt has probability of 7.70%
+273
+[(123, 142), (1, 133)]
+Line from (1, 133)->(16, 125)
+shirt has probability of 7.47%
+274
+[(123, 142), (16, 125)]
+Line from (16, 125)->(40, 135)
+shirt has probability of 7.43%
+275
+[(123, 142), (40, 135)]
+Line from (40, 135)->(67, 144)
+shirt has probability of 7.43%
+276
+[(123, 142), (67, 144)]
+Line from (67, 144)->(53, 127)
+shirt has probability of 7.46%
+277
+[(123, 142), (53, 127)]
+Line from (53, 127)->(62, 106)
+shirt has probability of 7.48%
+278
+[(123, 142), (62, 106)]
+Line from (62, 106)->(78, 78)
+shirt has probability of 8.28%
+279
+[(123, 142), (78, 78)]
+Line from (78, 78)->(83, 84)
+shirt has probability of 8.39%
+280
+[(123, 142), (83, 84)]
+Line from (83, 84)->(85, 47)
+shirt has probability of 9.94%
+281
+[(123, 142), (85, 47)]
+Line from (123, 142)->(91, 153)
+shirt has probability of 10.64%
+282
+[(85, 47), (91, 153)]
+Line from (91, 153)->(66, 157)
+shirt has probability of 10.59%
+283
+[(85, 47), (66, 157)]
+Line from (66, 157)->(66, 183)
+shirt has probability of 10.66%
+284
+[(85, 47), (66, 183)]
+Line from (66, 183)->(56, 157)
+shirt has probability of 10.65%
+285
+[(85, 47), (56, 157)]
+Line from (56, 157)->(78, 141)
+shirt has probability of 10.99%
+286
+[(85, 47), (78, 141)]
+Line from (78, 141)->(68, 117)
+shirt has probability of 10.37%
+287
+[(85, 47), (68, 117)]
+Line from (68, 117)->(67, 144)
+shirt has probability of 10.36%
+288
+[(85, 47), (67, 144)]
+Line from (67, 144)->(91, 153)
+shirt has probability of 10.35%
+289
+[(85, 47), (91, 153)]
+Line from (91, 153)->(81, 186)
+shirt has probability of 10.93%
+290
+[(85, 47), (81, 186)]
+Line from (85, 47)->(78, 78)
+shirt has probability of 10.82%
+291
+[(81, 186), (78, 78)]
+Line from (78, 78)->(59, 54)
+shirt has probability of 11.20%
+292
+[(81, 186), (59, 54)]
+Line from (81, 186)->(86, 219)
+shirt has probability of 10.76%
+293
+[(59, 54), (86, 219)]
+Line from (86, 219)->(78, 247)
+shirt has probability of 11.40%
+294
+[(59, 54), (78, 247)]
+Line from (78, 247)->(61, 241)
+shirt has probability of 11.26%
+295
+[(59, 54), (61, 241)]
+Line from (61, 241)->(41, 221)
+shirt has probability of 11.51%
+296
+[(59, 54), (41, 221)]
+Line from (41, 221)->(23, 235)
+shirt has probability of 11.52%
+297
+[(59, 54), (23, 235)]
+Line from (23, 235)->(51, 239)
+shirt has probability of 11.59%
+298
+[(59, 54), (51, 239)]
+Line from (51, 239)->(78, 247)
+shirt has probability of 11.25%
+299
+[(59, 54), (78, 247)]
+Line from (78, 247)->(102, 219)
+shirt has probability of 11.00%
+300
+[(59, 54), (102, 219)]
+Line from (102, 219)->(129, 227)
+shirt has probability of 10.72%
+301
+[(59, 54), (129, 227)]
+Line from (129, 227)->(115, 248)
+shirt has probability of 10.44%
+302
+[(59, 54), (115, 248)]
+Line from (115, 248)->(135, 231)
+shirt has probability of 10.25%
+303
+[(59, 54), (135, 231)]
+Line from (135, 231)->(149, 251)
+shirt has probability of 10.24%
+304
+[(59, 54), (149, 251)]
+Line from (149, 251)->(121, 245)
+shirt has probability of 9.47%
+305
+[(59, 54), (121, 245)]
+Line from (121, 245)->(115, 219)
+shirt has probability of 9.76%
+306
+[(59, 54), (115, 219)]
+Line from (115, 219)->(141, 220)
+shirt has probability of 9.92%
+307
+[(59, 54), (141, 220)]
+Line from (141, 220)->(124, 191)
+shirt has probability of 10.22%
+308
+[(59, 54), (124, 191)]
+Line from (59, 54)->(83, 84)
+shirt has probability of 10.12%
+309
+[(124, 191), (83, 84)]
+Line from (83, 84)->(62, 106)
+shirt has probability of 9.80%
+310
+[(124, 191), (62, 106)]
+Line from (62, 106)->(40, 135)
+shirt has probability of 9.78%
+311
+[(124, 191), (40, 135)]
+Line from (40, 135)->(67, 130)
+shirt has probability of 9.66%
+312
+[(124, 191), (67, 130)]
+Line from (67, 130)->(56, 157)
+shirt has probability of 9.21%
+313
+[(124, 191), (56, 157)]
+Line from (56, 157)->(40, 135)
+shirt has probability of 9.48%
+314
+[(124, 191), (40, 135)]
+Line from (40, 135)->(68, 117)
+shirt has probability of 9.49%
+315
+[(124, 191), (68, 117)]
+Line from (68, 117)->(83, 84)
+shirt has probability of 9.87%
+316
+[(124, 191), (83, 84)]
+Line from (83, 84)->(98, 46)
+shirt has probability of 10.17%
+317
+[(124, 191), (98, 46)]
+Line from (98, 46)->(117, 45)
+shirt has probability of 10.18%
+318
+[(124, 191), (117, 45)]
+Line from (117, 45)->(138, 47)
+shirt has probability of 10.10%
+319
+[(124, 191), (138, 47)]
+Line from (138, 47)->(164, 47)
+shirt has probability of 10.10%
+320
+[(124, 191), (164, 47)]
+Line from (164, 47)->(153, 62)
+shirt has probability of 9.82%
+321
+[(124, 191), (153, 62)]
+Line from (153, 62)->(151, 47)
+shirt has probability of 10.43%
+322
+[(124, 191), (151, 47)]
+Line from (151, 47)->(124, 47)
+shirt has probability of 10.43%
+323
+[(124, 191), (124, 47)]
+Line from (124, 47)->(98, 46)
+shirt has probability of 10.47%
+324
+[(124, 191), (98, 46)]
+Line from (98, 46)->(72, 49)
+shirt has probability of 10.37%
+325
+[(124, 191), (72, 49)]
+Line from (72, 49)->(46, 55)
+shirt has probability of 10.11%
+326
+[(124, 191), (46, 55)]
+Line from (46, 55)->(32, 76)
+shirt has probability of 10.11%
+327
+[(124, 191), (32, 76)]
+Line from (32, 76)->(27, 95)
+shirt has probability of 10.45%
+328
+[(124, 191), (27, 95)]
+Line from (27, 95)->(16, 125)
+shirt has probability of 10.51%
+329
+[(124, 191), (16, 125)]
+Line from (16, 125)->(1, 146)
+shirt has probability of 10.07%
+330
+[(124, 191), (1, 146)]
+Line from (1, 146)->(4, 120)
+shirt has probability of 10.13%
+331
+[(124, 191), (4, 120)]
+Line from (4, 120)->(1, 159)
+shirt has probability of 10.19%
+332
+[(124, 191), (1, 159)]
+Line from (1, 159)->(1, 186)
+shirt has probability of 10.17%
+333
+[(124, 191), (1, 186)]
+Line from (1, 186)->(1, 212)
+shirt has probability of 10.15%
+334
+[(124, 191), (1, 212)]
+Line from (1, 212)->(23, 235)
+shirt has probability of 9.87%
+335
+[(124, 191), (23, 235)]
+Line from (23, 235)->(52, 212)
+shirt has probability of 9.86%
+336
+[(124, 191), (52, 212)]
+Line from (52, 212)->(61, 241)
+shirt has probability of 10.23%
+337
+[(124, 191), (61, 241)]
+Line from (61, 241)->(31, 229)
+shirt has probability of 9.97%
+338
+[(124, 191), (31, 229)]
+Line from (31, 229)->(2, 238)
+shirt has probability of 10.09%
+339
+[(124, 191), (2, 238)]
+Line from (2, 238)->(1, 199)
+shirt has probability of 10.10%
+340
+[(124, 191), (1, 199)]
+Line from (1, 199)->(1, 159)
+shirt has probability of 10.04%
+341
+[(124, 191), (1, 159)]
+Line from (1, 159)->(16, 125)
+shirt has probability of 9.73%
+342
+[(124, 191), (16, 125)]
+Line from (16, 125)->(53, 127)
+shirt has probability of 9.61%
+343
+[(124, 191), (53, 127)]
+Line from (53, 127)->(78, 141)
+shirt has probability of 9.45%
+344
+[(124, 191), (78, 141)]
+Line from (78, 141)->(65, 170)
+shirt has probability of 9.48%
+345
+[(124, 191), (65, 170)]
+Line from (65, 170)->(91, 153)
+shirt has probability of 9.44%
+346
+[(124, 191), (91, 153)]
+Line from (91, 153)->(63, 178)
+shirt has probability of 9.63%
+347
+[(124, 191), (63, 178)]
+Line from (63, 178)->(63, 206)
+shirt has probability of 9.80%
+348
+[(124, 191), (63, 206)]
+Line from (63, 206)->(41, 221)
+shirt has probability of 9.79%
+349
+[(124, 191), (41, 221)]
+Line from (41, 221)->(69, 233)
+shirt has probability of 9.45%
+350
+[(124, 191), (69, 233)]
+Line from (124, 191)->(132, 153)
+shirt has probability of 8.84%
+351
+[(69, 233), (132, 153)]
+Line from (132, 153)->(118, 129)
+shirt has probability of 8.52%
+352
+[(69, 233), (118, 129)]
+Line from (118, 129)->(116, 160)
+shirt has probability of 7.77%
+353
+[(69, 233), (116, 160)]
+Line from (116, 160)->(125, 127)
+shirt has probability of 7.78%
+354
+[(69, 233), (125, 127)]
+Line from (125, 127)->(117, 101)
+shirt has probability of 6.80%
+355
+[(69, 233), (117, 101)]
